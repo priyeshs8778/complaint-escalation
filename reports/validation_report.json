@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "required columns present",
+      "passed": true,
+      "detail": "all present"
+    },
+    {
+      "check": "no null values",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "no duplicate rows",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "order_value in [0, 20000]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "days_since_order in [0, 365]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prior_complaints in [0, 100]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "customer_tenure_months in [0, 600]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "response_wait_hours in [0, 2000]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "product_category values valid",
+      "passed": true,
+      "detail": "ok"
+    },
+    {
+      "check": "channel values valid",
+      "passed": true,
+      "detail": "ok"
+    },
+    {
+      "check": "complaint_text not empty",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "target is binary",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "rows": 3000
+}

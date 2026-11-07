@@ -1,0 +1,201 @@
+order_value,days_since_order,prior_complaints,customer_tenure_months,response_wait_hours,product_category,channel,complaint_text,escalation_probability,escalate
+88.7,20,2,91,24.4,clothing,chat,refund still not received.,0.5133,1
+180.62,20,2,60,22.8,clothing,phone,this is fraud and i want a chargeback. refund still not received.,1.0,1
+70.28,3,2,91,14.3,grocery,email,the colour is slightly different.,0.0667,0
+124.73,23,0,43,3.4,grocery,email,just checking the delivery date.,0.1533,0
+138.5,27,1,7,14.4,home,phone,refund still not received.,0.4333,0
+215.49,36,1,30,34.3,electronics,email,worst service ever and i demand a full refund. a small question about my order.,0.7167,1
+133.22,26,2,6,24.5,clothing,email,i will contact a lawyer. wrong item delivered.,0.9633,1
+66.21,39,2,26,22.4,electronics,phone,wrong item delivered. how do i return an item.,0.47,0
+144.84,20,0,62,9.8,home,email,support has not replied. refund still not received.,0.36,0
+77.98,7,2,50,7.0,electronics,email,the item arrived damaged.,0.3133,0
+44.86,32,0,58,18.1,clothing,social,the colour is slightly different.,0.2033,0
+112.06,28,0,24,32.0,electronics,chat,i will post this on social media. support has not replied.,0.9933,1
+15.64,22,0,31,11.6,grocery,phone,just checking the delivery date.,0.0267,0
+61.95,28,1,38,19.8,beauty,phone,the item arrived damaged.,0.37,0
+25.15,10,1,19,33.1,electronics,email,the colour is slightly different.,0.0333,0
+150.96,7,1,90,7.0,grocery,email,wrong item delivered. the colour is slightly different.,0.3133,0
+49.84,15,0,73,11.0,electronics,social,please update my delivery address.,0.0333,0
+136.13,37,0,46,3.0,home,email,how do i return an item. the item arrived damaged.,0.3933,0
+122.85,36,1,59,5.8,electronics,chat,package never arrived.,0.54,1
+75.04,25,0,25,1.8,clothing,social,the colour is slightly different.,0.1167,0
+108.79,12,1,68,11.9,home,email,the item arrived damaged. the colour is slightly different.,0.3267,0
+168.8,43,1,50,28.5,clothing,social,worst service ever and i demand a full refund.,0.96,1
+53.26,43,1,6,19.5,electronics,chat,just checking the delivery date.,0.11,0
+19.41,9,0,88,15.6,home,chat,just checking the delivery date.,0.08,0
+121.61,31,6,70,19.3,grocery,email,this is fraud and i want a chargeback.,1.0,1
+196.53,24,0,83,3.6,beauty,chat,the item arrived damaged. the colour is slightly different.,0.45,0
+129.1,39,1,92,5.4,clothing,phone,refund still not received. the colour is slightly different.,0.2067,0
+155.99,15,0,65,18.3,electronics,chat,a small question about my order.,0.2067,0
+128.07,22,1,81,7.9,electronics,email,the colour is slightly different.,0.1167,0
+18.69,29,0,86,8.1,electronics,email,how do i return an item. just checking the delivery date.,0.0033,0
+72.74,29,0,30,11.7,electronics,email,how do i return an item. the item arrived damaged.,0.1167,0
+63.3,27,1,72,6.2,electronics,chat,how do i return an item.,0.07,0
+108.46,12,4,39,14.1,home,phone,reporting this to consumer court.,0.98,1
+126.9,23,1,65,53.2,electronics,email,i will post this on social media. the item arrived damaged.,0.9967,1
+119.02,41,0,88,14.7,home,chat,please update my delivery address. the item arrived damaged.,0.2733,0
+167.64,15,1,41,10.0,electronics,chat,just checking the delivery date.,0.19,0
+76.6,11,1,94,20.1,electronics,chat,please update my delivery address.,0.0133,0
+184.01,23,0,15,17.9,clothing,chat,a small question about my order.,0.2067,0
+23.11,21,1,85,1.8,clothing,chat,please update my delivery address.,0.0767,0
+117.03,17,0,70,54.3,clothing,email,support has not replied.,0.4333,0
+39.88,44,0,3,12.8,electronics,phone,a small question about my order. the item arrived damaged.,0.0833,0
+31.58,40,0,61,4.0,home,chat,please update my delivery address. a small question about my order.,0.04,0
+188.14,5,0,82,24.5,beauty,chat,refund still not received. a small question about my order.,0.23,0
+70.05,21,1,92,22.7,electronics,social,wrong item delivered. the item arrived damaged.,0.4533,0
+101.84,29,0,11,56.5,electronics,phone,i will post this on social media.,0.9933,1
+268.75,21,2,31,3.6,home,email,escalate to your manager now. wrong item delivered.,0.96,1
+57.03,43,0,56,34.2,clothing,social,package never arrived.,0.73,1
+216.88,12,0,84,27.4,electronics,chat,package never arrived.,0.6433,1
+49.74,41,0,29,4.5,beauty,email,package never arrived.,0.1633,0
+85.69,12,0,21,37.0,clothing,email,refund still not received. just checking the delivery date.,0.4933,0
+50.22,39,0,78,9.3,beauty,email,please update my delivery address. support has not replied.,0.01,0
+106.09,42,0,90,4.5,home,email,how do i return an item. the colour is slightly different.,0.1533,0
+74.26,12,0,4,20.3,electronics,email,how do i return an item.,0.14,0
+61.08,14,1,95,3.3,electronics,email,how do i return an item.,0.0333,0
+75.92,5,0,63,13.5,electronics,social,package never arrived.,0.16,0
+191.37,39,0,5,13.1,clothing,chat,worst service ever and i demand a full refund.,0.9367,1
+279.47,8,0,43,20.4,beauty,email,package never arrived.,0.64,1
+62.24,27,0,31,15.8,electronics,chat,the colour is slightly different.,0.0233,0
+190.31,15,0,41,17.9,electronics,chat,i will contact a lawyer.,0.9867,1
+46.76,44,1,95,1.2,electronics,email,the colour is slightly different. wrong item delivered.,0.04,0
+126.72,29,1,72,10.8,electronics,chat,support has not replied.,0.4133,0
+71.69,8,0,92,11.7,electronics,chat,how do i return an item.,0.0367,0
+98.47,34,0,79,15.6,beauty,social,refund still not received.,0.6033,1
+87.97,42,0,64,9.2,grocery,chat,support has not replied.,0.1933,0
+64.22,25,0,70,42.9,beauty,phone,a small question about my order. the colour is slightly different.,0.3667,0
+11.89,34,1,13,10.1,home,phone,support has not replied. how do i return an item.,0.48,0
+142.48,32,0,14,17.7,grocery,email,support has not replied. how do i return an item.,0.1733,0
+125.49,25,1,1,23.0,home,chat,refund still not received. the item arrived damaged.,0.5333,1
+190.16,36,2,69,16.6,electronics,chat,the item arrived damaged.,0.57,1
+161.39,32,0,24,5.4,home,email,package never arrived. refund still not received.,0.6,1
+51.71,8,1,42,9.9,electronics,email,please update my delivery address. a small question about my order.,0.03,0
+60.99,32,3,90,16.5,clothing,social,i will post this on social media.,0.99,1
+58.26,25,1,93,7.3,grocery,email,how do i return an item.,0.0667,0
+102.34,20,1,77,22.3,electronics,social,the item arrived damaged.,0.6067,1
+15.58,27,0,3,15.8,electronics,chat,please update my delivery address. how do i return an item.,0.1767,0
+100.62,28,0,41,15.7,grocery,email,support has not replied.,0.3367,0
+125.34,6,0,91,3.6,clothing,social,the colour is slightly different.,0.1433,0
+50.65,11,3,73,11.6,electronics,phone,support has not replied.,0.1767,0
+139.29,35,0,7,9.4,clothing,chat,the item arrived damaged. a small question about my order.,0.54,1
+282.22,1,0,86,21.9,electronics,phone,reporting this to consumer court. the item arrived damaged.,0.9567,1
+111.39,6,2,24,8.0,grocery,phone,wrong item delivered.,0.3333,0
+123.97,30,1,29,10.6,clothing,chat,refund still not received. the colour is slightly different.,0.2633,0
+99.12,9,1,9,10.1,beauty,phone,i will post this on social media.,0.9867,1
+24.89,21,1,84,25.9,clothing,phone,how do i return an item. how do i return an item.,0.2067,0
+172.2,35,1,50,5.5,beauty,email,the item arrived damaged.,0.42,0
+94.3,40,0,26,7.6,beauty,phone,the colour is slightly different. the colour is slightly different.,0.0633,0
+128.42,37,0,18,4.5,home,social,just checking the delivery date.,0.2633,0
+106.14,12,1,32,21.8,grocery,phone,how do i return an item. support has not replied.,0.39,0
+92.26,15,0,40,5.9,electronics,phone,please update my delivery address.,0.0933,0
+77.34,36,0,5,14.7,electronics,social,package never arrived.,0.27,0
+111.58,35,0,6,24.0,home,phone,refund still not received. package never arrived.,0.2367,0
+125.6,44,2,16,3.8,electronics,chat,the item arrived damaged. how do i return an item.,0.4333,0
+150.15,33,2,65,16.7,clothing,chat,the item arrived damaged.,0.4767,0
+50.22,40,0,53,16.7,home,phone,how do i return an item. the colour is slightly different.,0.2133,0
+57.55,18,1,94,10.3,grocery,chat,how do i return an item. how do i return an item.,0.17,0
+57.07,43,1,3,27.1,grocery,email,i will post this on social media.,0.9867,1
+45.8,15,2,3,17.3,electronics,email,wrong item delivered.,0.2867,0
+89.3,7,1,52,22.1,grocery,email,refund still not received. please update my delivery address.,0.4233,0
+87.16,25,0,9,34.1,clothing,phone,i will post this on social media. the item arrived damaged.,0.99,1
+240.5,8,0,17,25.6,home,email,the item arrived damaged.,0.7233,1
+118.02,2,1,88,24.1,clothing,email,the colour is slightly different. please update my delivery address.,0.1267,0
+26.26,11,0,72,8.6,grocery,phone,how do i return an item. please update my delivery address.,0.0067,0
+159.63,17,1,50,18.1,electronics,email,i will contact a lawyer.,0.9967,1
+102.96,16,1,13,12.1,electronics,email,support has not replied. a small question about my order.,0.1533,0
+91.5,1,0,60,15.9,grocery,email,how do i return an item. refund still not received.,0.0267,0
+108.02,6,0,20,19.8,home,email,support has not replied.,0.3467,0
+129.44,6,0,87,10.6,home,phone,please update my delivery address. support has not replied.,0.0967,0
+142.14,7,0,26,8.9,electronics,email,refund still not received.,0.41,0
+37.01,34,0,3,7.1,electronics,chat,just checking the delivery date.,0.0833,0
+229.44,1,2,56,13.6,home,email,the item arrived damaged.,0.6067,1
+59.71,15,0,31,14.1,home,email,the colour is slightly different. a small question about my order.,0.0733,0
+62.58,42,1,77,4.9,home,phone,just checking the delivery date. the colour is slightly different.,0.1067,0
+92.05,17,2,37,3.0,home,email,wrong item delivered.,0.1567,0
+98.45,16,0,72,15.1,home,email,a small question about my order. a small question about my order.,0.42,0
+51.75,33,0,68,15.6,electronics,phone,please update my delivery address.,0.0167,0
+24.53,28,3,71,4.4,clothing,email,how do i return an item.,0.13,0
+144.93,11,0,59,9.8,clothing,chat,how do i return an item. please update my delivery address.,0.0867,0
+85.19,20,1,65,11.5,home,email,a small question about my order.,0.3267,0
+72.03,22,1,73,32.5,clothing,chat,refund still not received.,0.3867,0
+95.8,33,0,52,39.7,home,email,the item arrived damaged.,0.4367,0
+63.8,19,0,64,7.9,home,chat,a small question about my order. just checking the delivery date.,0.03,0
+124.94,36,0,33,18.6,beauty,email,worst service ever and i demand a full refund.,0.94,1
+25.55,19,2,77,25.0,grocery,email,please update my delivery address.,0.0833,0
+74.82,17,0,18,40.4,electronics,chat,the item arrived damaged. the colour is slightly different.,0.5,1
+158.76,15,1,3,4.1,home,phone,support has not replied.,0.3467,0
+64.38,24,1,83,9.7,clothing,social,a small question about my order.,0.1033,0
+154.71,21,1,79,17.6,electronics,phone,support has not replied. a small question about my order.,0.4833,0
+164.13,5,2,39,10.0,clothing,chat,refund still not received.,0.5133,1
+137.93,18,0,54,10.6,grocery,chat,a small question about my order.,0.1567,0
+143.12,13,1,62,2.2,grocery,phone,refund still not received.,0.34,0
+13.03,22,0,12,3.2,electronics,phone,please update my delivery address.,0.2633,0
+127.6,10,0,7,7.8,electronics,social,please update my delivery address.,0.2333,0
+110.26,39,0,51,5.2,home,email,a small question about my order.,0.3233,0
+212.97,14,0,35,11.1,beauty,chat,refund still not received.,0.6267,1
+119.82,23,0,39,58.2,electronics,phone,worst service ever and i demand a full refund.,0.9833,1
+33.67,15,1,10,7.6,electronics,email,wrong item delivered. package never arrived.,0.3333,0
+108.81,26,2,19,10.8,home,email,wrong item delivered.,0.3933,0
+127.14,26,0,34,3.0,home,social,just checking the delivery date.,0.1933,0
+15.97,17,0,86,4.3,grocery,email,just checking the delivery date.,0.0067,0
+103.13,15,0,70,17.3,electronics,social,support has not replied. how do i return an item.,0.1433,0
+96.78,31,0,95,18.3,clothing,social,package never arrived.,0.4933,0
+117.39,15,0,33,24.5,grocery,email,the item arrived damaged.,0.7,1
+176.07,21,0,52,17.2,clothing,phone,support has not replied. how do i return an item.,0.1967,0
+105.15,37,0,65,10.4,clothing,email,how do i return an item. please update my delivery address.,0.0167,0
+38.13,2,1,49,20.6,electronics,email,the item arrived damaged.,0.24,0
+211.42,1,1,12,6.0,grocery,social,reporting this to consumer court.,0.9867,1
+71.07,21,0,63,23.9,clothing,social,support has not replied.,0.5467,1
+61.29,1,1,37,1.0,clothing,phone,just checking the delivery date. just checking the delivery date.,0.02,0
+53.08,25,0,60,48.0,home,chat,the item arrived damaged.,0.3567,0
+23.01,3,2,39,8.2,grocery,social,how do i return an item. the colour is slightly different.,0.18,0
+59.84,10,2,66,19.2,grocery,chat,wrong item delivered.,0.2067,0
+74.14,39,0,49,13.6,clothing,social,the colour is slightly different.,0.2867,0
+95.95,23,1,12,22.6,home,phone,wrong item delivered.,0.44,0
+112.24,28,1,22,3.7,clothing,email,package never arrived. wrong item delivered.,0.52,1
+31.08,9,3,48,16.2,grocery,phone,the item arrived damaged. how do i return an item.,0.2933,0
+69.63,33,1,67,19.4,grocery,phone,a small question about my order.,0.1167,0
+17.77,8,1,21,19.6,home,social,support has not replied. package never arrived.,0.2733,0
+116.65,43,1,84,3.6,grocery,chat,the colour is slightly different. please update my delivery address.,0.08,0
+223.0,4,1,28,33.4,clothing,email,worst service ever and i demand a full refund. support has not replied.,0.9467,1
+97.35,10,1,78,12.9,home,social,support has not replied.,0.4733,0
+48.95,41,0,91,34.3,electronics,chat,the item arrived damaged. a small question about my order.,0.3667,0
+84.61,41,1,3,17.0,home,email,the item arrived damaged. refund still not received.,0.4867,0
+146.48,10,0,94,6.8,electronics,email,just checking the delivery date. support has not replied.,0.1633,0
+49.31,11,0,47,6.4,home,email,the colour is slightly different. wrong item delivered.,0.0133,0
+44.68,43,0,38,12.0,electronics,phone,support has not replied. please update my delivery address.,0.2233,0
+76.86,23,1,33,1.2,clothing,email,wrong item delivered.,0.0533,0
+153.87,31,0,94,16.9,home,social,support has not replied.,0.4833,0
+98.12,30,0,55,9.5,home,email,the colour is slightly different. please update my delivery address.,0.01,0
+108.28,27,1,37,21.6,home,phone,the item arrived damaged.,0.6233,1
+122.09,36,1,8,6.5,electronics,email,wrong item delivered.,0.5133,1
+185.51,8,1,51,10.0,home,chat,i will post this on social media. just checking the delivery date.,0.95,1
+82.18,11,1,70,3.0,home,email,just checking the delivery date. please update my delivery address.,0.0033,0
+57.43,7,0,82,6.1,home,social,a small question about my order.,0.48,0
+124.48,21,1,40,12.2,clothing,email,refund still not received.,0.4733,0
+163.99,1,1,37,9.5,electronics,chat,support has not replied.,0.4567,0
+110.44,3,0,90,5.7,home,chat,please update my delivery address. package never arrived.,0.2433,0
+73.66,14,0,19,6.7,electronics,chat,how do i return an item.,0.0733,0
+220.19,13,0,2,12.8,beauty,email,package never arrived. please update my delivery address.,0.5633,1
+200.64,37,0,40,3.3,clothing,email,support has not replied.,0.4733,0
+10.99,44,1,40,37.6,electronics,social,wrong item delivered.,0.61,1
+88.3,14,0,2,11.4,clothing,email,a small question about my order. how do i return an item.,0.0833,0
+79.46,40,0,47,29.2,electronics,email,package never arrived. the item arrived damaged.,0.3967,0
+24.95,37,1,43,14.0,grocery,social,the item arrived damaged.,0.5633,1
+63.02,26,1,79,24.9,beauty,social,wrong item delivered. the colour is slightly different.,0.2467,0
+116.63,24,1,4,17.7,grocery,phone,wrong item delivered.,0.6567,1
+106.69,35,0,72,28.2,home,chat,just checking the delivery date.,0.3333,0
+139.49,5,1,4,27.7,beauty,social,this is fraud and i want a chargeback. just checking the delivery date.,1.0,1
+58.28,40,1,18,10.4,clothing,chat,refund still not received.,0.1433,0
+235.21,9,1,87,6.1,clothing,email,wrong item delivered.,0.4233,0
+159.16,15,0,30,11.9,electronics,chat,a small question about my order. package never arrived.,0.7033,1
+57.51,38,1,61,4.9,clothing,chat,please update my delivery address. a small question about my order.,0.0867,0
+93.93,44,2,70,14.2,beauty,chat,wrong item delivered.,0.4367,0
+128.11,5,1,41,6.7,home,social,package never arrived.,0.32,0
+56.16,20,1,40,22.8,clothing,email,just checking the delivery date.,0.08,0
+219.21,41,0,41,12.1,clothing,social,reporting this to consumer court.,0.9967,1
+115.18,7,0,25,10.5,home,chat,just checking the delivery date. package never arrived.,0.2233,0
+114.63,22,2,48,8.6,home,phone,this is fraud and i want a chargeback.,1.0,1
+109.95,24,0,89,22.9,clothing,chat,refund still not received. a small question about my order.,0.1267,0
+109.24,1,1,24,10.0,clothing,email,wrong item delivered.,0.1667,0
+110.53,27,0,81,16.0,electronics,email,the colour is slightly different.,0.1033,0

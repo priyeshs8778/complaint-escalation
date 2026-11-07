@@ -1,0 +1,67 @@
+{
+  "shap_importance": {
+    "complaint_text": 0.5966,
+    "order_value": 0.1357,
+    "response_wait_hours": 0.0944,
+    "channel": 0.0437,
+    "prior_complaints": 0.0415,
+    "customer_tenure_months": 0.0329,
+    "product_category": 0.0281,
+    "days_since_order": 0.0271
+  },
+  "fairness_group": "product_category",
+  "fairness_table": [
+    {
+      "group": "beauty",
+      "n": 53,
+      "n_positive": 16,
+      "actual_rate": 0.302,
+      "selection_rate": 0.226,
+      "recall_tpr": 0.625,
+      "false_positive_rate": 0.054
+    },
+    {
+      "group": "clothing",
+      "n": 155,
+      "n_positive": 57,
+      "actual_rate": 0.368,
+      "selection_rate": 0.348,
+      "recall_tpr": 0.684,
+      "false_positive_rate": 0.153
+    },
+    {
+      "group": "electronics",
+      "n": 196,
+      "n_positive": 54,
+      "actual_rate": 0.276,
+      "selection_rate": 0.27,
+      "recall_tpr": 0.741,
+      "false_positive_rate": 0.092
+    },
+    {
+      "group": "grocery",
+      "n": 87,
+      "n_positive": 24,
+      "actual_rate": 0.276,
+      "selection_rate": 0.345,
+      "recall_tpr": 0.875,
+      "false_positive_rate": 0.143
+    },
+    {
+      "group": "home",
+      "n": 109,
+      "n_positive": 40,
+      "actual_rate": 0.367,
+      "selection_rate": 0.321,
+      "recall_tpr": 0.775,
+      "false_positive_rate": 0.058
+    }
+  ],
+  "gaps": {
+    "demographic_parity_gap": 0.122,
+    "tpr_gap": 0.25,
+    "fpr_gap": 0.099,
+    "within_threshold": false
+  },
+  "threshold": 0.2
+}

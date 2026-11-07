@@ -1,0 +1,18 @@
+services:
+  api:
+    build: .
+    container_name: escalation-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./reports:/app/reports
+    restart: unless-stopped
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    container_name: escalation-prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    depends_on:
+      - api

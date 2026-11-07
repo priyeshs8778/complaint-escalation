@@ -1,0 +1,98 @@
+{
+  "reference_rows": 3000,
+  "current_rows": 1000,
+  "current_file": "data/batch/drifted_batch.csv",
+  "thresholds": {
+    "psi": 0.2,
+    "p_value": 0.01
+  },
+  "features": {
+    "order_value": {
+      "type": "numeric",
+      "psi": 0.6979,
+      "p_value": 2.4510425306733223e-85,
+      "ref_mean": 100.024,
+      "cur_mean": 180.004,
+      "drift": true
+    },
+    "days_since_order": {
+      "type": "numeric",
+      "psi": 0.0172,
+      "p_value": 0.37122718685631695,
+      "ref_mean": 22.349,
+      "cur_mean": 22.693,
+      "drift": false
+    },
+    "prior_complaints": {
+      "type": "numeric",
+      "psi": 0.7498,
+      "p_value": 5.947669860334512e-100,
+      "ref_mean": 0.799,
+      "cur_mean": 1.948,
+      "drift": true
+    },
+    "customer_tenure_months": {
+      "type": "numeric",
+      "psi": 0.0156,
+      "p_value": 0.2529520962701708,
+      "ref_mean": 48.423,
+      "cur_mean": 47.134,
+      "drift": false
+    },
+    "response_wait_hours": {
+      "type": "numeric",
+      "psi": 0.9737,
+      "p_value": 1.6811835262499183e-114,
+      "ref_mean": 16.361,
+      "cur_mean": 35.733,
+      "drift": true
+    },
+    "product_category": {
+      "type": "categorical",
+      "psi": 0.4597,
+      "p_value": 1.6768358515062418e-71,
+      "ref_share": {
+        "beauty": 0.092,
+        "clothing": 0.26,
+        "electronics": 0.295,
+        "grocery": 0.169,
+        "home": 0.185
+      },
+      "cur_share": {
+        "beauty": 0.095,
+        "clothing": 0.104,
+        "electronics": 0.605,
+        "grocery": 0.097,
+        "home": 0.099
+      },
+      "drift": true
+    },
+    "channel": {
+      "type": "categorical",
+      "psi": 1.2854,
+      "p_value": 3.141106262757524e-203,
+      "ref_share": {
+        "chat": 0.282,
+        "email": 0.362,
+        "phone": 0.212,
+        "social": 0.144
+      },
+      "cur_share": {
+        "chat": 0.082,
+        "email": 0.093,
+        "phone": 0.214,
+        "social": 0.611
+      },
+      "drift": true
+    }
+  },
+  "drifted_features": [
+    "order_value",
+    "prior_complaints",
+    "response_wait_hours",
+    "product_category",
+    "channel"
+  ],
+  "share_drifted": 0.714,
+  "alert": true
+}

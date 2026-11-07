@@ -1,0 +1,1001 @@
+order_value,days_since_order,prior_complaints,customer_tenure_months,response_wait_hours,product_category,channel,complaint_text
+164.81,44,4,15,28.4,electronics,social,escalate to your manager now. support has not replied.
+135.87,15,1,39,69.1,grocery,phone,this is fraud and I want a chargeback.
+118.86,10,1,32,21.6,electronics,social,worst service ever and I demand a full refund. support has not replied.
+171.49,38,3,13,89.8,grocery,phone,escalate to your manager now.
+115.52,27,7,17,19.8,clothing,chat,escalate to your manager now.
+225.78,1,2,85,65.1,electronics,social,reporting this to consumer court. a small question about my order.
+176.74,12,5,12,45.1,electronics,phone,I will contact a lawyer. refund still not received.
+161.42,35,2,36,121.0,electronics,social,this is fraud and I want a chargeback.
+55.42,13,3,38,25.5,grocery,social,reporting this to consumer court.
+32.62,30,1,67,59.0,electronics,social,I will contact a lawyer. a small question about my order.
+59.68,26,2,41,10.3,electronics,social,the item arrived damaged.
+182.84,1,3,3,7.7,electronics,email,I will contact a lawyer.
+159.3,6,0,58,8.1,grocery,social,the item arrived damaged.
+45.96,4,1,67,15.6,electronics,social,just checking the delivery date.
+181.64,37,4,52,41.8,electronics,social,reporting this to consumer court. please update my delivery address.
+89.74,33,1,22,23.3,beauty,social,I will post this on social media. wrong item delivered.
+89.85,6,1,91,50.4,electronics,social,reporting this to consumer court. the colour is slightly different.
+284.73,30,2,43,45.5,home,phone,I will post this on social media.
+152.48,7,2,62,23.8,clothing,social,escalate to your manager now. the item arrived damaged.
+171.91,14,0,65,18.5,electronics,social,escalate to your manager now. package never arrived.
+173.34,31,6,18,14.5,electronics,social,reporting this to consumer court. wrong item delivered.
+45.14,38,5,17,7.3,clothing,chat,I will contact a lawyer.
+178.39,14,1,10,51.5,grocery,phone,I will post this on social media.
+505.13,10,0,51,9.5,electronics,chat,escalate to your manager now. just checking the delivery date.
+63.65,1,2,37,17.6,electronics,social,the item arrived damaged. wrong item delivered.
+237.98,19,3,80,9.5,electronics,social,reporting this to consumer court. package never arrived.
+253.48,25,2,77,38.7,grocery,social,I will contact a lawyer.
+251.16,6,0,16,9.7,electronics,social,worst service ever and I demand a full refund.
+100.05,30,1,62,50.2,electronics,social,escalate to your manager now.
+118.08,29,1,45,17.8,electronics,chat,package never arrived.
+64.35,7,3,7,33.0,beauty,phone,package never arrived. just checking the delivery date.
+143.68,4,2,18,49.9,electronics,social,I will contact a lawyer.
+328.87,9,3,78,25.7,electronics,phone,worst service ever and I demand a full refund. the item arrived damaged.
+90.8,8,2,14,7.5,grocery,chat,package never arrived. wrong item delivered.
+27.23,8,0,42,56.1,electronics,social,I will post this on social media. the colour is slightly different.
+154.01,34,1,47,56.8,electronics,social,reporting this to consumer court. wrong item delivered.
+254.45,10,4,76,25.3,beauty,social,reporting this to consumer court.
+126.79,23,3,44,40.5,electronics,email,I will post this on social media. wrong item delivered.
+400.67,35,1,52,20.2,electronics,social,escalate to your manager now. package never arrived.
+132.98,30,2,62,23.3,beauty,social,this is fraud and I want a chargeback.
+151.52,19,1,35,55.2,grocery,social,I will post this on social media.
+68.84,33,0,82,21.6,electronics,social,how do I return an item. just checking the delivery date.
+119.85,1,1,64,28.6,electronics,social,package never arrived. package never arrived.
+249.07,27,2,68,116.4,home,social,I will contact a lawyer. how do I return an item.
+251.33,16,2,89,58.1,electronics,social,escalate to your manager now.
+312.64,9,0,32,15.4,electronics,social,I will contact a lawyer. how do I return an item.
+238.92,8,1,70,18.7,electronics,social,worst service ever and I demand a full refund.
+206.57,31,4,47,57.4,electronics,social,reporting this to consumer court. a small question about my order.
+25.8,43,1,36,69.1,electronics,social,worst service ever and I demand a full refund.
+83.12,6,0,65,77.0,electronics,social,I will contact a lawyer. wrong item delivered.
+565.06,14,1,15,65.8,electronics,chat,escalate to your manager now.
+104.27,12,3,80,60.3,beauty,social,I will post this on social media.
+226.21,22,2,89,13.6,electronics,social,this is fraud and I want a chargeback. a small question about my order.
+142.69,20,0,65,47.5,electronics,phone,refund still not received.
+229.94,30,1,37,3.1,electronics,phone,wrong item delivered. how do I return an item.
+155.97,6,1,48,59.4,electronics,social,reporting this to consumer court.
+72.64,23,0,28,23.8,electronics,social,please update my delivery address.
+86.13,5,2,13,73.5,beauty,social,wrong item delivered. refund still not received.
+187.19,36,2,83,73.9,electronics,phone,I will post this on social media.
+107.01,29,3,83,49.7,clothing,social,I will contact a lawyer.
+27.04,39,2,59,38.1,grocery,phone,the item arrived damaged. package never arrived.
+208.68,33,1,27,34.3,beauty,social,this is fraud and I want a chargeback. the colour is slightly different.
+278.69,31,2,94,18.5,home,phone,worst service ever and I demand a full refund. support has not replied.
+264.65,17,5,39,31.9,electronics,social,I will contact a lawyer. a small question about my order.
+268.09,38,0,54,21.8,beauty,chat,reporting this to consumer court. wrong item delivered.
+45.64,18,2,85,34.3,electronics,social,support has not replied.
+384.33,11,0,4,21.8,electronics,email,worst service ever and I demand a full refund.
+135.89,10,0,20,38.1,grocery,social,reporting this to consumer court.
+77.9,23,1,70,13.9,electronics,social,the item arrived damaged. please update my delivery address.
+111.09,23,1,87,16.3,home,social,the item arrived damaged.
+90.92,12,6,83,22.7,home,social,this is fraud and I want a chargeback.
+59.09,26,1,22,73.5,clothing,social,I will post this on social media. a small question about my order.
+148.03,10,0,75,13.6,electronics,social,a small question about my order. package never arrived.
+166.16,42,0,9,21.6,beauty,phone,reporting this to consumer court. the colour is slightly different.
+130.76,2,1,57,26.6,electronics,social,I will contact a lawyer. a small question about my order.
+165.57,2,3,49,109.8,electronics,social,I will contact a lawyer. the colour is slightly different.
+133.34,15,4,82,25.3,grocery,social,escalate to your manager now. just checking the delivery date.
+89.89,40,4,76,15.0,beauty,social,I will post this on social media. how do I return an item.
+100.42,10,1,4,43.3,electronics,phone,this is fraud and I want a chargeback.
+205.35,44,5,39,15.8,electronics,email,worst service ever and I demand a full refund. just checking the delivery date.
+49.68,15,5,8,5.1,grocery,social,I will post this on social media.
+103.59,16,1,81,23.5,electronics,social,wrong item delivered.
+261.33,5,2,2,32.6,electronics,social,reporting this to consumer court.
+172.79,32,5,38,14.3,electronics,social,reporting this to consumer court. support has not replied.
+220.97,39,3,64,49.1,clothing,social,worst service ever and I demand a full refund.
+149.19,37,0,78,30.1,home,phone,this is fraud and I want a chargeback.
+62.64,7,2,86,50.4,electronics,email,the item arrived damaged. please update my delivery address.
+114.21,29,2,11,122.1,electronics,email,worst service ever and I demand a full refund.
+160.91,20,1,25,35.4,home,social,worst service ever and I demand a full refund. the colour is slightly different.
+114.13,13,1,27,29.5,electronics,phone,wrong item delivered.
+133.15,34,2,26,18.0,electronics,social,this is fraud and I want a chargeback. a small question about my order.
+167.16,28,1,12,68.9,electronics,email,this is fraud and I want a chargeback.
+253.14,38,1,70,74.8,electronics,social,worst service ever and I demand a full refund. how do I return an item.
+109.33,39,1,71,41.1,electronics,social,worst service ever and I demand a full refund. how do I return an item.
+295.37,38,6,44,76.8,electronics,social,I will post this on social media.
+149.42,5,4,45,21.6,electronics,email,worst service ever and I demand a full refund. support has not replied.
+268.47,28,0,75,18.7,clothing,social,I will post this on social media. the colour is slightly different.
+290.74,22,3,63,50.8,electronics,social,reporting this to consumer court.
+398.94,8,2,16,44.7,electronics,social,I will contact a lawyer.
+281.1,1,6,23,26.0,beauty,social,reporting this to consumer court. wrong item delivered.
+283.0,9,4,49,21.1,electronics,social,the item arrived damaged.
+392.81,38,2,70,24.2,grocery,email,this is fraud and I want a chargeback. the item arrived damaged.
+38.8,31,2,94,64.0,electronics,social,this is fraud and I want a chargeback. a small question about my order.
+75.22,35,3,95,28.6,home,social,I will contact a lawyer. support has not replied.
+277.61,40,1,49,40.0,electronics,social,this is fraud and I want a chargeback. please update my delivery address.
+23.45,3,4,8,50.4,beauty,social,worst service ever and I demand a full refund.
+169.69,18,6,56,40.3,beauty,email,reporting this to consumer court. support has not replied.
+169.02,33,1,31,50.4,clothing,social,worst service ever and I demand a full refund. package never arrived.
+46.76,33,2,20,13.4,electronics,social,support has not replied.
+78.13,31,0,83,24.4,home,social,support has not replied.
+227.96,7,1,81,55.7,grocery,social,worst service ever and I demand a full refund.
+214.45,6,4,81,26.6,clothing,email,escalate to your manager now. wrong item delivered.
+101.48,19,2,4,90.2,home,social,I will post this on social media. package never arrived.
+84.06,24,0,83,36.7,electronics,social,support has not replied.
+91.69,14,2,85,37.8,home,chat,package never arrived. please update my delivery address.
+205.68,31,0,22,38.7,electronics,social,this is fraud and I want a chargeback.
+52.84,10,1,53,26.8,electronics,social,worst service ever and I demand a full refund.
+154.85,15,2,54,41.4,electronics,chat,reporting this to consumer court. package never arrived.
+49.89,5,3,45,54.6,electronics,chat,refund still not received.
+262.58,23,2,9,31.7,electronics,social,escalate to your manager now. a small question about my order.
+173.91,33,1,11,35.4,grocery,social,I will post this on social media. package never arrived.
+330.54,43,2,41,20.0,electronics,social,I will post this on social media.
+20.79,11,4,26,12.5,electronics,social,worst service ever and I demand a full refund.
+28.02,28,0,55,70.0,electronics,phone,worst service ever and I demand a full refund.
+99.24,3,2,57,28.8,electronics,social,refund still not received. the item arrived damaged.
+363.43,23,1,25,29.9,electronics,social,escalate to your manager now.
+65.25,39,1,40,30.8,electronics,chat,the item arrived damaged.
+326.29,3,2,41,56.1,electronics,social,this is fraud and I want a chargeback.
+170.09,17,3,92,59.6,electronics,email,I will post this on social media. just checking the delivery date.
+169.0,6,3,35,11.2,electronics,social,package never arrived. how do I return an item.
+234.54,24,3,51,26.2,electronics,social,reporting this to consumer court.
+73.38,38,4,9,38.7,clothing,social,I will post this on social media.
+99.37,21,1,36,31.0,beauty,social,this is fraud and I want a chargeback.
+59.47,33,1,7,20.2,electronics,social,this is fraud and I want a chargeback.
+163.84,14,3,8,43.3,electronics,social,reporting this to consumer court.
+442.19,37,4,75,13.9,clothing,social,worst service ever and I demand a full refund. how do I return an item.
+118.07,11,3,3,17.8,electronics,phone,escalate to your manager now.
+210.77,26,1,1,27.3,electronics,email,I will post this on social media. just checking the delivery date.
+194.29,16,0,84,15.4,clothing,phone,support has not replied.
+174.15,26,4,94,71.9,electronics,social,worst service ever and I demand a full refund. package never arrived.
+136.34,12,4,17,91.7,electronics,phone,escalate to your manager now.
+336.55,24,0,86,1.8,electronics,social,wrong item delivered. wrong item delivered.
+164.05,12,1,79,21.8,grocery,phone,refund still not received.
+110.03,33,0,94,81.4,electronics,social,this is fraud and I want a chargeback.
+297.82,11,4,39,64.5,grocery,chat,I will contact a lawyer. wrong item delivered.
+251.41,15,4,75,15.4,clothing,social,I will contact a lawyer. package never arrived.
+189.96,1,2,8,10.1,grocery,social,worst service ever and I demand a full refund. refund still not received.
+142.92,22,1,1,17.6,electronics,social,reporting this to consumer court. the colour is slightly different.
+398.3,1,2,4,57.0,home,email,I will contact a lawyer. wrong item delivered.
+158.21,21,3,12,45.5,grocery,social,this is fraud and I want a chargeback. refund still not received.
+103.36,38,4,86,23.5,electronics,social,reporting this to consumer court.
+228.09,30,1,31,24.4,electronics,email,I will contact a lawyer. package never arrived.
+128.9,24,1,34,12.5,electronics,social,refund still not received. the colour is slightly different.
+157.3,10,3,18,39.8,electronics,email,escalate to your manager now.
+124.54,39,2,49,20.9,electronics,social,I will contact a lawyer. the colour is slightly different.
+141.15,2,1,6,12.8,electronics,social,support has not replied.
+43.02,9,1,22,15.8,beauty,email,the item arrived damaged. please update my delivery address.
+86.39,4,5,88,79.6,clothing,social,escalate to your manager now.
+92.62,16,1,86,5.9,clothing,chat,please update my delivery address.
+132.01,8,3,87,60.1,electronics,social,escalate to your manager now.
+187.02,7,4,33,62.7,electronics,phone,package never arrived.
+76.65,38,2,73,40.3,electronics,social,I will contact a lawyer.
+508.71,24,3,9,19.4,beauty,social,worst service ever and I demand a full refund. the colour is slightly different.
+142.99,32,2,25,31.0,electronics,chat,escalate to your manager now. how do I return an item.
+203.0,24,1,28,40.3,electronics,phone,escalate to your manager now.
+69.27,33,2,81,31.0,home,chat,wrong item delivered.
+82.73,34,3,79,5.7,clothing,social,wrong item delivered. wrong item delivered.
+400.84,20,2,78,14.7,home,email,I will contact a lawyer.
+234.65,38,6,35,23.8,electronics,email,I will post this on social media.
+143.62,5,1,31,13.9,electronics,social,escalate to your manager now.
+54.93,42,2,81,36.5,electronics,social,worst service ever and I demand a full refund.
+391.74,21,2,13,29.9,electronics,email,this is fraud and I want a chargeback.
+80.16,7,1,46,88.2,electronics,social,worst service ever and I demand a full refund. package never arrived.
+114.46,38,0,13,21.6,electronics,social,this is fraud and I want a chargeback.
+142.75,30,2,57,25.3,beauty,phone,this is fraud and I want a chargeback.
+200.15,23,0,39,81.2,electronics,phone,this is fraud and I want a chargeback. just checking the delivery date.
+160.21,12,1,64,53.2,electronics,phone,escalate to your manager now. refund still not received.
+155.46,28,3,80,12.5,clothing,social,worst service ever and I demand a full refund.
+475.15,36,1,21,48.4,electronics,chat,I will post this on social media. support has not replied.
+170.98,17,1,8,14.1,home,social,refund still not received.
+211.98,7,1,9,40.3,electronics,social,I will post this on social media.
+51.98,7,0,41,118.8,electronics,social,reporting this to consumer court.
+256.97,35,1,74,24.6,electronics,social,this is fraud and I want a chargeback. refund still not received.
+37.89,28,2,34,55.9,electronics,phone,reporting this to consumer court.
+99.81,12,3,75,45.1,electronics,phone,worst service ever and I demand a full refund.
+568.38,22,2,85,77.9,home,social,I will post this on social media.
+91.96,8,3,93,20.0,beauty,phone,package never arrived. just checking the delivery date.
+158.48,16,1,15,32.1,grocery,social,package never arrived. please update my delivery address.
+66.52,36,1,59,47.5,electronics,chat,this is fraud and I want a chargeback. the item arrived damaged.
+66.56,12,1,63,23.5,electronics,social,refund still not received. a small question about my order.
+314.45,43,2,52,19.1,grocery,social,escalate to your manager now.
+117.12,31,1,31,37.4,grocery,chat,I will contact a lawyer.
+150.33,3,1,38,51.5,electronics,social,worst service ever and I demand a full refund. the colour is slightly different.
+129.56,14,2,62,44.9,electronics,phone,worst service ever and I demand a full refund. a small question about my order.
+50.2,14,2,47,15.4,electronics,phone,wrong item delivered.
+144.19,26,2,79,35.9,electronics,phone,I will contact a lawyer.
+304.08,44,2,19,32.8,electronics,social,reporting this to consumer court. wrong item delivered.
+91.6,12,4,79,70.8,electronics,social,worst service ever and I demand a full refund. refund still not received.
+212.53,8,6,59,17.2,electronics,phone,worst service ever and I demand a full refund. wrong item delivered.
+308.71,34,2,81,23.1,home,social,I will post this on social media. the item arrived damaged.
+62.81,28,4,2,83.6,home,social,escalate to your manager now.
+272.21,17,1,28,24.0,electronics,social,reporting this to consumer court. package never arrived.
+30.5,31,2,90,14.1,electronics,social,package never arrived. the colour is slightly different.
+241.03,22,1,27,21.6,electronics,social,reporting this to consumer court. how do I return an item.
+125.36,39,1,43,20.7,home,social,this is fraud and I want a chargeback.
+68.06,41,4,12,20.2,clothing,social,reporting this to consumer court. just checking the delivery date.
+145.81,14,2,85,78.5,clothing,social,worst service ever and I demand a full refund. please update my delivery address.
+102.35,32,0,25,17.2,beauty,social,support has not replied. how do I return an item.
+39.54,23,2,89,7.9,electronics,phone,a small question about my order. package never arrived.
+301.05,33,1,12,68.9,electronics,social,reporting this to consumer court. package never arrived.
+316.1,17,1,80,34.8,electronics,social,worst service ever and I demand a full refund.
+73.32,15,3,75,42.9,electronics,social,reporting this to consumer court.
+118.46,1,2,3,35.0,beauty,phone,reporting this to consumer court.
+111.68,37,2,5,42.0,electronics,social,this is fraud and I want a chargeback.
+132.89,23,4,58,46.9,clothing,phone,escalate to your manager now. package never arrived.
+58.42,17,3,19,36.1,clothing,chat,this is fraud and I want a chargeback.
+284.49,24,2,92,7.5,electronics,social,this is fraud and I want a chargeback. refund still not received.
+165.05,44,2,76,31.5,electronics,social,I will contact a lawyer. just checking the delivery date.
+77.77,37,1,57,13.6,electronics,social,wrong item delivered.
+113.24,40,0,74,37.2,electronics,social,the item arrived damaged.
+91.92,17,2,1,31.7,electronics,email,escalate to your manager now.
+140.52,30,0,93,73.3,electronics,social,reporting this to consumer court. the item arrived damaged.
+239.55,23,4,86,14.5,electronics,phone,I will post this on social media. package never arrived.
+241.79,37,3,37,13.4,electronics,social,worst service ever and I demand a full refund.
+70.62,33,1,74,12.8,clothing,chat,how do I return an item.
+170.54,24,3,5,44.0,electronics,chat,worst service ever and I demand a full refund. the item arrived damaged.
+82.67,22,4,29,12.1,electronics,social,escalate to your manager now.
+37.39,33,3,77,12.8,electronics,social,worst service ever and I demand a full refund.
+70.89,23,1,14,48.2,electronics,social,I will contact a lawyer. package never arrived.
+158.14,6,2,28,10.6,grocery,social,wrong item delivered.
+46.23,3,5,63,6.8,grocery,social,reporting this to consumer court.
+94.73,44,3,74,12.8,electronics,social,package never arrived.
+210.86,12,3,77,31.9,electronics,phone,I will contact a lawyer.
+96.42,36,3,2,8.6,home,phone,wrong item delivered. how do I return an item.
+93.78,5,1,41,29.9,electronics,social,the item arrived damaged. please update my delivery address.
+78.15,7,1,4,16.3,electronics,chat,please update my delivery address.
+32.85,2,3,41,53.5,grocery,phone,reporting this to consumer court. the colour is slightly different.
+131.37,11,3,57,25.1,grocery,chat,package never arrived. please update my delivery address.
+161.21,44,2,25,90.0,electronics,email,this is fraud and I want a chargeback.
+170.3,26,4,65,26.8,electronics,social,I will post this on social media.
+73.64,1,1,26,14.7,beauty,phone,a small question about my order. how do I return an item.
+75.43,34,2,54,30.6,electronics,social,I will post this on social media. just checking the delivery date.
+263.17,42,3,59,24.6,electronics,phone,escalate to your manager now.
+78.83,7,1,51,18.9,electronics,email,a small question about my order.
+128.08,25,2,2,118.1,beauty,social,I will post this on social media.
+7.77,43,1,57,67.3,clothing,email,this is fraud and I want a chargeback.
+71.25,15,2,33,58.7,electronics,email,this is fraud and I want a chargeback.
+71.12,16,1,13,59.4,electronics,email,worst service ever and I demand a full refund.
+47.1,28,3,62,13.2,beauty,social,the item arrived damaged. refund still not received.
+373.44,44,1,7,18.9,electronics,phone,I will post this on social media.
+123.69,41,0,18,10.3,clothing,social,this is fraud and I want a chargeback.
+30.68,34,1,34,60.5,electronics,phone,I will post this on social media. the colour is slightly different.
+161.23,13,3,17,89.8,electronics,social,the item arrived damaged. package never arrived.
+154.39,22,2,53,21.6,clothing,social,I will contact a lawyer. a small question about my order.
+157.36,8,2,70,27.7,electronics,social,I will post this on social media. package never arrived.
+355.34,16,2,24,21.6,clothing,social,escalate to your manager now.
+149.81,43,1,91,37.8,grocery,phone,I will contact a lawyer.
+157.51,5,2,18,32.8,electronics,social,the item arrived damaged. how do I return an item.
+94.79,6,6,83,37.0,electronics,email,reporting this to consumer court. refund still not received.
+73.36,4,1,43,42.0,clothing,social,support has not replied.
+153.31,9,2,73,32.8,electronics,social,I will contact a lawyer.
+145.05,28,2,39,24.4,electronics,phone,I will post this on social media.
+79.76,17,2,84,68.2,home,social,I will post this on social media. wrong item delivered.
+110.6,35,1,26,40.0,electronics,phone,escalate to your manager now. just checking the delivery date.
+164.18,27,2,4,15.6,electronics,social,I will contact a lawyer.
+172.29,40,4,89,73.5,grocery,email,I will contact a lawyer.
+104.88,15,1,60,28.2,electronics,social,package never arrived. the item arrived damaged.
+24.53,17,1,90,54.3,electronics,social,I will post this on social media. the colour is slightly different.
+182.13,2,2,26,28.2,electronics,social,this is fraud and I want a chargeback. package never arrived.
+121.62,42,2,5,86.7,beauty,social,escalate to your manager now. package never arrived.
+77.81,37,2,42,86.9,home,social,worst service ever and I demand a full refund.
+110.26,14,2,46,30.6,electronics,social,reporting this to consumer court.
+63.35,11,2,50,26.6,electronics,social,refund still not received. how do I return an item.
+181.22,42,1,23,23.8,grocery,social,support has not replied. please update my delivery address.
+120.25,23,3,83,42.5,electronics,social,worst service ever and I demand a full refund. the colour is slightly different.
+39.82,41,1,32,44.2,electronics,social,escalate to your manager now.
+193.38,14,0,44,4.4,clothing,social,reporting this to consumer court.
+211.38,7,2,3,13.6,beauty,social,I will contact a lawyer. please update my delivery address.
+137.31,26,1,43,72.6,clothing,email,worst service ever and I demand a full refund. a small question about my order.
+217.7,38,2,8,33.9,electronics,email,reporting this to consumer court. just checking the delivery date.
+46.72,5,1,51,4.0,electronics,social,a small question about my order.
+333.2,31,2,4,30.1,beauty,social,escalate to your manager now. please update my delivery address.
+192.24,2,0,29,15.8,electronics,social,I will post this on social media.
+294.21,31,1,12,21.3,electronics,phone,this is fraud and I want a chargeback.
+47.78,39,4,9,12.8,electronics,email,this is fraud and I want a chargeback. how do I return an item.
+103.36,37,4,62,21.3,grocery,social,I will contact a lawyer.
+126.56,27,3,95,11.4,beauty,social,reporting this to consumer court.
+447.83,24,2,8,19.6,electronics,social,I will post this on social media.
+153.37,6,5,46,14.5,electronics,phone,I will contact a lawyer. please update my delivery address.
+60.06,23,0,85,53.2,electronics,social,reporting this to consumer court. package never arrived.
+216.98,41,2,87,22.2,electronics,phone,this is fraud and I want a chargeback.
+177.31,17,1,77,34.5,electronics,phone,escalate to your manager now.
+92.49,13,2,1,17.4,electronics,email,support has not replied. the item arrived damaged.
+260.76,39,3,26,49.1,electronics,social,worst service ever and I demand a full refund. the colour is slightly different.
+315.88,24,3,2,33.9,electronics,email,this is fraud and I want a chargeback. just checking the delivery date.
+132.43,40,3,66,19.8,beauty,social,this is fraud and I want a chargeback.
+76.04,2,2,38,59.4,clothing,email,escalate to your manager now.
+238.54,8,1,91,25.1,electronics,social,escalate to your manager now. refund still not received.
+201.63,30,1,22,121.7,grocery,phone,escalate to your manager now. refund still not received.
+127.11,34,2,12,34.8,electronics,phone,this is fraud and I want a chargeback.
+85.67,43,2,38,32.8,electronics,social,escalate to your manager now. wrong item delivered.
+129.98,13,6,54,33.4,electronics,chat,worst service ever and I demand a full refund. please update my delivery address.
+211.07,12,1,42,69.3,clothing,phone,support has not replied. package never arrived.
+163.0,9,1,45,34.1,beauty,social,reporting this to consumer court.
+8.68,33,3,48,21.1,electronics,social,refund still not received.
+233.21,9,0,30,10.3,electronics,chat,support has not replied. the item arrived damaged.
+437.61,40,3,8,87.6,electronics,phone,I will post this on social media. refund still not received.
+202.16,26,0,28,68.9,electronics,social,this is fraud and I want a chargeback.
+269.32,30,1,47,79.2,grocery,social,escalate to your manager now. just checking the delivery date.
+160.21,13,2,9,28.2,home,social,I will post this on social media.
+495.04,33,1,38,11.0,electronics,phone,I will post this on social media.
+159.31,11,0,62,36.3,electronics,social,the item arrived damaged. the item arrived damaged.
+365.28,8,4,9,13.6,electronics,social,this is fraud and I want a chargeback. wrong item delivered.
+389.8,5,5,19,20.0,electronics,social,worst service ever and I demand a full refund. a small question about my order.
+144.72,7,2,91,66.9,electronics,social,I will contact a lawyer.
+269.25,15,5,41,19.4,beauty,phone,I will contact a lawyer.
+46.95,5,0,21,9.9,grocery,phone,how do I return an item.
+205.3,35,2,89,31.5,clothing,chat,worst service ever and I demand a full refund. refund still not received.
+46.32,16,3,17,5.5,electronics,email,refund still not received.
+226.35,1,2,34,42.7,electronics,phone,this is fraud and I want a chargeback. the item arrived damaged.
+117.0,40,2,84,13.0,electronics,social,support has not replied.
+139.25,22,2,31,70.6,clothing,phone,this is fraud and I want a chargeback. wrong item delivered.
+82.29,29,1,14,8.1,electronics,social,wrong item delivered. just checking the delivery date.
+188.63,27,1,89,9.7,clothing,social,support has not replied. a small question about my order.
+252.38,35,1,94,20.2,electronics,chat,escalate to your manager now.
+81.49,3,2,56,9.5,beauty,phone,a small question about my order. refund still not received.
+128.42,16,1,21,26.0,electronics,phone,reporting this to consumer court. wrong item delivered.
+189.75,13,1,55,42.0,home,social,escalate to your manager now. support has not replied.
+103.55,26,4,22,24.2,electronics,social,I will post this on social media.
+340.73,40,4,22,40.5,electronics,email,worst service ever and I demand a full refund. please update my delivery address.
+504.81,1,3,72,33.0,electronics,social,I will post this on social media. support has not replied.
+190.38,44,1,61,28.2,beauty,email,reporting this to consumer court.
+151.13,21,1,36,13.0,beauty,phone,reporting this to consumer court.
+178.09,38,1,37,23.1,electronics,social,I will post this on social media. package never arrived.
+88.24,42,2,53,55.9,clothing,phone,escalate to your manager now. package never arrived.
+50.56,8,3,52,53.9,electronics,social,worst service ever and I demand a full refund. package never arrived.
+93.56,11,2,4,44.0,electronics,phone,refund still not received.
+189.6,34,2,38,14.5,beauty,social,escalate to your manager now.
+129.98,19,3,52,66.4,electronics,phone,this is fraud and I want a chargeback.
+83.81,20,1,8,15.8,home,phone,the colour is slightly different.
+74.59,14,2,67,29.7,electronics,phone,the item arrived damaged. please update my delivery address.
+161.65,8,0,84,85.6,beauty,social,I will contact a lawyer. support has not replied.
+128.31,37,5,71,4.4,electronics,social,I will contact a lawyer. support has not replied.
+256.12,22,0,66,29.5,grocery,email,support has not replied. please update my delivery address.
+73.76,1,3,82,49.9,electronics,social,wrong item delivered.
+641.46,41,1,92,22.2,home,chat,escalate to your manager now. a small question about my order.
+152.51,6,3,23,4.8,grocery,social,wrong item delivered.
+518.72,39,1,30,53.2,clothing,phone,I will post this on social media. refund still not received.
+126.98,32,2,38,65.1,electronics,email,I will post this on social media. how do I return an item.
+226.37,18,0,27,79.0,electronics,social,worst service ever and I demand a full refund.
+114.11,18,1,76,11.2,home,social,wrong item delivered.
+439.51,3,4,13,6.4,grocery,phone,I will contact a lawyer. how do I return an item.
+253.69,18,0,14,35.9,clothing,phone,reporting this to consumer court.
+96.62,40,2,30,99.9,electronics,social,this is fraud and I want a chargeback.
+143.89,39,0,74,24.2,electronics,social,wrong item delivered.
+253.42,44,1,31,58.1,electronics,phone,I will contact a lawyer.
+38.7,30,1,62,17.8,clothing,phone,a small question about my order.
+94.87,23,4,18,44.0,electronics,social,this is fraud and I want a chargeback.
+105.87,36,3,41,49.7,clothing,chat,escalate to your manager now. the colour is slightly different.
+17.88,10,2,26,21.3,electronics,phone,wrong item delivered.
+194.67,40,1,32,89.8,electronics,social,worst service ever and I demand a full refund.
+500.29,24,1,28,26.4,electronics,social,escalate to your manager now.
+34.14,20,0,23,93.5,grocery,email,I will contact a lawyer.
+63.19,31,0,82,16.9,electronics,social,wrong item delivered. the colour is slightly different.
+173.74,26,2,58,9.5,clothing,phone,refund still not received.
+206.04,22,4,43,4.4,electronics,social,worst service ever and I demand a full refund. just checking the delivery date.
+200.22,40,4,68,60.7,beauty,social,escalate to your manager now. how do I return an item.
+132.01,16,0,78,34.5,electronics,phone,package never arrived.
+111.36,38,2,15,21.1,electronics,social,I will contact a lawyer. just checking the delivery date.
+39.04,11,0,5,16.1,grocery,chat,the colour is slightly different.
+469.43,19,5,5,19.6,electronics,social,this is fraud and I want a chargeback.
+361.21,14,5,18,69.7,clothing,phone,escalate to your manager now.
+100.0,9,1,32,43.8,electronics,social,package never arrived.
+158.46,3,3,91,2.2,beauty,chat,wrong item delivered.
+134.2,25,1,5,8.1,electronics,social,reporting this to consumer court. please update my delivery address.
+120.61,12,5,5,6.4,electronics,phone,reporting this to consumer court.
+70.7,44,0,28,37.0,electronics,social,refund still not received. just checking the delivery date.
+574.24,42,3,7,31.9,clothing,social,I will contact a lawyer.
+139.38,15,2,67,54.6,electronics,social,this is fraud and I want a chargeback.
+257.26,1,2,50,20.0,electronics,social,worst service ever and I demand a full refund.
+142.56,33,2,63,21.6,electronics,chat,refund still not received.
+196.73,33,2,28,17.2,electronics,social,this is fraud and I want a chargeback. the colour is slightly different.
+406.87,16,5,94,48.2,clothing,social,I will post this on social media.
+174.1,35,0,19,9.9,electronics,social,the item arrived damaged.
+393.98,6,3,77,17.8,beauty,phone,escalate to your manager now. how do I return an item.
+100.49,18,0,58,3.7,electronics,chat,just checking the delivery date.
+250.61,10,1,85,49.7,electronics,social,I will contact a lawyer.
+375.25,27,1,58,7.7,electronics,social,escalate to your manager now. package never arrived.
+263.7,4,0,56,18.7,electronics,email,package never arrived. please update my delivery address.
+100.87,10,1,18,27.5,electronics,email,the item arrived damaged. the colour is slightly different.
+126.64,7,2,21,20.5,beauty,social,I will post this on social media.
+102.22,30,2,52,2.0,home,social,support has not replied. package never arrived.
+202.1,19,5,31,42.0,electronics,social,worst service ever and I demand a full refund.
+143.32,32,1,44,49.5,electronics,social,reporting this to consumer court.
+93.75,6,0,37,31.5,electronics,chat,wrong item delivered.
+62.55,33,1,81,20.5,electronics,social,wrong item delivered. the colour is slightly different.
+102.52,26,2,92,27.1,home,phone,support has not replied.
+158.94,22,3,7,110.4,electronics,social,escalate to your manager now. wrong item delivered.
+255.59,17,0,67,14.3,home,phone,support has not replied.
+207.9,43,1,23,12.3,electronics,social,escalate to your manager now. a small question about my order.
+245.92,28,1,24,52.1,clothing,phone,escalate to your manager now. the item arrived damaged.
+345.29,39,0,54,91.5,clothing,social,worst service ever and I demand a full refund.
+212.53,12,2,32,60.5,electronics,chat,worst service ever and I demand a full refund.
+49.55,26,0,4,29.3,home,social,support has not replied. the colour is slightly different.
+137.33,31,2,31,91.5,grocery,phone,I will contact a lawyer. a small question about my order.
+54.64,31,2,81,18.7,electronics,chat,package never arrived.
+176.62,20,2,75,44.4,beauty,phone,I will contact a lawyer.
+37.92,13,2,92,4.8,grocery,email,the colour is slightly different.
+154.83,15,1,61,53.5,clothing,social,I will post this on social media. just checking the delivery date.
+175.18,42,1,32,28.4,clothing,social,this is fraud and I want a chargeback. support has not replied.
+234.4,12,3,66,70.6,electronics,social,reporting this to consumer court. how do I return an item.
+160.4,29,1,74,1.1,electronics,email,how do I return an item. just checking the delivery date.
+652.42,31,3,34,38.9,beauty,social,escalate to your manager now. wrong item delivered.
+117.97,40,0,24,27.9,grocery,social,I will post this on social media.
+268.91,19,4,25,24.6,electronics,phone,reporting this to consumer court.
+116.2,13,3,91,35.2,electronics,email,this is fraud and I want a chargeback.
+77.65,4,0,91,22.9,electronics,social,how do I return an item.
+116.98,44,2,21,50.6,electronics,email,escalate to your manager now.
+50.12,20,0,25,9.7,home,social,the colour is slightly different.
+181.81,5,1,1,41.6,clothing,social,worst service ever and I demand a full refund. wrong item delivered.
+35.26,3,5,72,64.0,electronics,social,worst service ever and I demand a full refund.
+271.11,24,1,7,12.1,clothing,social,I will post this on social media.
+156.01,21,4,12,101.4,electronics,social,reporting this to consumer court. please update my delivery address.
+245.86,5,5,44,28.2,electronics,phone,worst service ever and I demand a full refund.
+65.44,39,3,23,16.5,electronics,social,escalate to your manager now. wrong item delivered.
+385.64,9,0,4,43.8,electronics,phone,worst service ever and I demand a full refund.
+331.38,17,2,5,42.7,electronics,social,worst service ever and I demand a full refund. the item arrived damaged.
+293.49,34,2,94,37.4,clothing,social,this is fraud and I want a chargeback. refund still not received.
+147.67,20,6,3,5.3,electronics,social,reporting this to consumer court.
+266.27,3,3,60,52.6,clothing,phone,I will post this on social media. just checking the delivery date.
+155.36,30,1,43,51.9,electronics,email,escalate to your manager now.
+340.59,17,3,55,15.0,electronics,social,support has not replied. the colour is slightly different.
+36.59,33,2,95,90.4,electronics,phone,worst service ever and I demand a full refund. refund still not received.
+166.4,9,3,60,27.1,electronics,social,this is fraud and I want a chargeback.
+360.24,27,0,42,38.5,home,social,escalate to your manager now.
+273.37,38,2,40,6.8,grocery,phone,I will post this on social media. support has not replied.
+282.09,11,2,1,42.0,electronics,phone,this is fraud and I want a chargeback. please update my delivery address.
+267.14,4,1,85,10.3,home,social,wrong item delivered.
+182.49,22,1,70,6.8,electronics,social,reporting this to consumer court. package never arrived.
+81.21,15,1,68,32.6,beauty,email,the item arrived damaged.
+221.69,28,1,33,71.7,grocery,social,this is fraud and I want a chargeback. a small question about my order.
+120.42,38,2,41,16.9,beauty,social,I will post this on social media.
+135.49,41,2,69,11.9,grocery,social,worst service ever and I demand a full refund. how do I return an item.
+150.33,31,2,27,65.3,grocery,social,I will post this on social media. the item arrived damaged.
+162.32,42,2,82,58.5,home,social,this is fraud and I want a chargeback. how do I return an item.
+78.45,31,2,14,29.0,beauty,phone,the item arrived damaged. support has not replied.
+250.8,42,1,23,37.6,electronics,social,reporting this to consumer court.
+185.95,44,3,30,12.3,grocery,social,package never arrived.
+327.01,9,3,51,9.5,clothing,social,refund still not received. package never arrived.
+510.3,2,0,34,8.4,electronics,chat,I will post this on social media. how do I return an item.
+262.12,1,3,39,22.7,electronics,social,reporting this to consumer court.
+176.36,30,5,8,51.3,electronics,social,reporting this to consumer court. package never arrived.
+56.79,16,2,6,22.9,electronics,phone,the item arrived damaged.
+159.24,33,2,88,30.1,home,phone,I will contact a lawyer.
+186.5,39,3,47,48.2,electronics,social,I will contact a lawyer.
+197.66,33,2,25,3.1,beauty,phone,escalate to your manager now.
+168.7,18,3,17,56.8,electronics,social,reporting this to consumer court. package never arrived.
+112.94,32,3,52,37.8,electronics,social,this is fraud and I want a chargeback. support has not replied.
+287.26,31,2,50,11.9,home,social,worst service ever and I demand a full refund.
+181.81,4,0,7,24.6,beauty,social,worst service ever and I demand a full refund.
+309.93,3,5,49,7.0,electronics,email,this is fraud and I want a chargeback. the item arrived damaged.
+97.6,4,4,53,44.4,electronics,phone,escalate to your manager now.
+201.59,24,2,64,29.9,electronics,chat,this is fraud and I want a chargeback.
+336.72,35,1,62,24.9,electronics,social,escalate to your manager now. wrong item delivered.
+337.21,37,6,25,9.5,beauty,chat,worst service ever and I demand a full refund.
+69.67,27,2,8,39.8,beauty,social,I will contact a lawyer. just checking the delivery date.
+154.07,42,4,2,41.8,electronics,social,this is fraud and I want a chargeback.
+127.7,12,1,93,46.0,grocery,social,I will contact a lawyer.
+337.27,11,0,9,6.6,electronics,chat,the item arrived damaged.
+214.43,1,3,16,22.4,clothing,phone,worst service ever and I demand a full refund. how do I return an item.
+102.56,6,1,4,20.2,beauty,social,refund still not received. please update my delivery address.
+161.12,24,1,25,53.5,electronics,social,this is fraud and I want a chargeback. please update my delivery address.
+115.52,35,0,49,50.2,clothing,social,reporting this to consumer court. the item arrived damaged.
+168.04,4,1,70,40.9,home,social,worst service ever and I demand a full refund. how do I return an item.
+121.47,37,2,55,54.1,electronics,phone,I will contact a lawyer. a small question about my order.
+189.77,33,2,32,30.8,electronics,social,I will contact a lawyer.
+339.02,6,3,59,125.0,electronics,social,I will post this on social media. the item arrived damaged.
+571.75,15,3,84,24.2,electronics,social,I will contact a lawyer. the colour is slightly different.
+272.67,29,2,5,28.6,electronics,social,reporting this to consumer court. refund still not received.
+471.73,36,5,23,10.3,electronics,phone,this is fraud and I want a chargeback. the item arrived damaged.
+250.72,37,4,42,36.5,home,phone,this is fraud and I want a chargeback.
+261.57,5,3,30,35.6,electronics,social,escalate to your manager now.
+221.01,3,1,75,64.0,electronics,phone,I will contact a lawyer.
+156.1,22,1,66,38.5,clothing,social,support has not replied. just checking the delivery date.
+19.17,11,2,86,9.9,electronics,phone,just checking the delivery date. the item arrived damaged.
+73.97,5,0,82,30.4,clothing,email,wrong item delivered.
+140.39,20,1,13,31.0,electronics,social,escalate to your manager now.
+210.14,35,2,84,46.6,electronics,social,reporting this to consumer court.
+82.21,24,5,74,31.7,electronics,social,wrong item delivered.
+161.69,25,0,28,20.0,electronics,phone,package never arrived.
+147.92,27,5,35,32.3,clothing,social,I will post this on social media. the item arrived damaged.
+149.32,11,1,51,33.2,beauty,social,this is fraud and I want a chargeback. refund still not received.
+166.69,29,4,34,12.1,electronics,social,reporting this to consumer court.
+237.52,43,5,40,15.2,clothing,social,this is fraud and I want a chargeback. package never arrived.
+129.35,4,0,75,31.9,home,social,a small question about my order.
+147.33,31,1,65,59.4,electronics,social,reporting this to consumer court. wrong item delivered.
+83.09,19,3,71,33.7,electronics,social,I will post this on social media.
+123.8,15,0,22,28.8,home,phone,package never arrived. package never arrived.
+88.5,7,2,2,41.4,electronics,social,reporting this to consumer court. refund still not received.
+212.48,38,1,80,30.8,electronics,social,I will post this on social media. package never arrived.
+509.98,20,0,58,6.8,clothing,email,escalate to your manager now.
+454.18,17,3,68,19.4,clothing,email,I will contact a lawyer.
+101.14,43,5,25,65.3,electronics,email,I will post this on social media.
+218.42,42,3,17,32.3,electronics,social,I will contact a lawyer. refund still not received.
+170.26,5,1,35,11.4,grocery,social,support has not replied.
+33.9,14,3,30,33.0,electronics,phone,reporting this to consumer court.
+20.29,13,2,4,26.8,electronics,social,worst service ever and I demand a full refund.
+96.06,44,3,32,110.7,clothing,social,worst service ever and I demand a full refund.
+141.34,2,1,59,13.9,electronics,social,wrong item delivered.
+50.81,3,2,89,45.5,electronics,phone,package never arrived.
+71.88,38,0,92,65.6,electronics,social,reporting this to consumer court. the colour is slightly different.
+78.45,33,2,44,46.4,electronics,social,this is fraud and I want a chargeback. a small question about my order.
+72.48,19,1,88,11.7,electronics,social,just checking the delivery date. support has not replied.
+53.94,13,2,59,33.2,home,social,escalate to your manager now.
+131.42,1,0,73,15.2,clothing,phone,how do I return an item.
+236.84,19,5,89,21.8,grocery,social,this is fraud and I want a chargeback.
+187.42,25,3,83,46.9,electronics,email,escalate to your manager now. refund still not received.
+78.01,28,0,38,6.6,electronics,phone,just checking the delivery date. package never arrived.
+138.64,15,4,31,56.3,grocery,social,this is fraud and I want a chargeback. how do I return an item.
+159.83,3,2,90,83.6,electronics,email,this is fraud and I want a chargeback. please update my delivery address.
+27.53,12,1,88,50.8,electronics,phone,support has not replied.
+284.28,10,1,28,23.3,electronics,email,worst service ever and I demand a full refund. refund still not received.
+90.99,43,0,40,89.1,home,social,this is fraud and I want a chargeback. the colour is slightly different.
+53.5,5,2,2,38.9,clothing,social,this is fraud and I want a chargeback.
+616.36,36,1,72,5.5,home,phone,escalate to your manager now. please update my delivery address.
+69.16,33,2,10,13.4,beauty,social,escalate to your manager now.
+123.4,21,2,75,37.4,home,phone,reporting this to consumer court. support has not replied.
+88.81,10,2,66,33.0,electronics,social,escalate to your manager now.
+284.79,5,0,42,43.8,electronics,phone,reporting this to consumer court. please update my delivery address.
+126.29,22,3,37,41.8,electronics,phone,this is fraud and I want a chargeback.
+45.03,35,5,90,15.8,beauty,social,escalate to your manager now.
+19.95,15,4,80,21.6,beauty,social,wrong item delivered.
+103.76,35,2,80,38.1,electronics,social,this is fraud and I want a chargeback. package never arrived.
+474.58,11,1,51,96.8,clothing,email,I will post this on social media.
+66.54,14,2,74,59.2,electronics,email,worst service ever and I demand a full refund.
+331.13,42,1,66,71.3,electronics,social,this is fraud and I want a chargeback.
+79.38,26,5,87,48.2,electronics,social,this is fraud and I want a chargeback.
+42.64,23,0,34,26.4,electronics,phone,how do I return an item.
+136.31,25,1,48,19.4,clothing,social,the item arrived damaged.
+183.96,29,1,56,9.2,electronics,social,wrong item delivered.
+141.91,26,3,11,28.8,electronics,phone,I will contact a lawyer. package never arrived.
+22.55,31,6,67,37.6,grocery,email,reporting this to consumer court. the colour is slightly different.
+96.96,11,2,6,17.8,electronics,phone,the item arrived damaged.
+190.63,37,1,36,5.9,electronics,social,I will post this on social media.
+102.87,1,1,46,3.7,electronics,social,please update my delivery address.
+206.89,12,3,47,4.4,electronics,phone,I will contact a lawyer.
+49.27,14,4,64,77.2,home,email,I will contact a lawyer.
+635.02,4,0,81,84.0,clothing,social,worst service ever and I demand a full refund. a small question about my order.
+64.43,36,2,10,56.5,electronics,social,I will post this on social media.
+142.46,21,3,89,46.0,grocery,phone,worst service ever and I demand a full refund.
+142.02,32,2,40,42.9,electronics,social,escalate to your manager now.
+262.85,8,2,34,8.6,electronics,email,the item arrived damaged.
+120.08,44,1,64,119.7,electronics,chat,I will post this on social media. the colour is slightly different.
+159.18,1,4,7,28.8,electronics,social,worst service ever and I demand a full refund.
+145.26,29,0,87,32.8,electronics,email,a small question about my order. a small question about my order.
+209.1,41,3,81,21.1,electronics,social,I will post this on social media. support has not replied.
+207.8,39,0,12,7.7,electronics,social,I will post this on social media.
+150.82,28,1,43,36.7,electronics,email,the item arrived damaged.
+265.03,44,1,5,60.9,electronics,social,I will post this on social media.
+364.8,19,1,93,42.2,clothing,social,escalate to your manager now.
+94.32,16,0,92,8.6,electronics,social,just checking the delivery date.
+99.96,7,1,73,84.9,home,social,escalate to your manager now. how do I return an item.
+96.71,31,3,52,63.8,grocery,phone,refund still not received. please update my delivery address.
+91.79,34,2,35,8.1,electronics,social,I will contact a lawyer.
+95.68,3,2,20,21.6,electronics,social,I will post this on social media. a small question about my order.
+160.25,24,3,81,102.1,home,social,I will contact a lawyer.
+248.27,28,4,23,22.2,electronics,social,worst service ever and I demand a full refund. support has not replied.
+93.27,8,0,53,22.4,grocery,phone,support has not replied. the item arrived damaged.
+202.94,23,2,81,32.1,electronics,social,I will contact a lawyer.
+113.92,44,1,68,39.6,electronics,social,I will contact a lawyer. support has not replied.
+619.67,36,1,35,27.3,electronics,phone,this is fraud and I want a chargeback.
+180.77,42,4,85,56.3,clothing,social,escalate to your manager now.
+243.79,24,0,10,24.0,grocery,social,the item arrived damaged.
+72.35,41,5,56,18.5,grocery,social,reporting this to consumer court. support has not replied.
+79.8,43,2,71,4.8,electronics,email,support has not replied. wrong item delivered.
+175.66,37,2,91,36.3,electronics,phone,I will post this on social media.
+86.62,20,1,94,109.1,electronics,social,reporting this to consumer court. wrong item delivered.
+146.96,24,5,38,44.7,electronics,social,worst service ever and I demand a full refund. how do I return an item.
+311.71,21,2,23,66.7,electronics,social,reporting this to consumer court.
+88.81,14,0,36,37.8,electronics,social,refund still not received. refund still not received.
+81.26,26,2,31,37.0,electronics,email,support has not replied. the item arrived damaged.
+169.82,29,1,61,3.1,electronics,chat,the item arrived damaged.
+126.39,37,1,69,18.9,electronics,social,worst service ever and I demand a full refund. please update my delivery address.
+227.68,7,4,39,23.5,electronics,phone,escalate to your manager now.
+138.21,23,1,8,50.4,electronics,social,this is fraud and I want a chargeback. the colour is slightly different.
+66.52,28,0,68,25.1,electronics,social,just checking the delivery date. refund still not received.
+21.15,27,3,47,5.7,home,social,package never arrived. refund still not received.
+190.42,3,4,51,4.4,electronics,social,I will contact a lawyer. package never arrived.
+89.79,33,4,82,23.3,electronics,social,this is fraud and I want a chargeback.
+164.1,1,1,71,31.5,electronics,phone,support has not replied. package never arrived.
+31.27,29,4,56,111.5,electronics,social,I will post this on social media. just checking the delivery date.
+86.34,32,0,79,9.7,electronics,social,just checking the delivery date. support has not replied.
+191.39,14,4,89,17.4,clothing,email,this is fraud and I want a chargeback.
+286.75,16,2,54,18.3,clothing,social,I will post this on social media. support has not replied.
+291.18,13,0,28,86.5,electronics,social,this is fraud and I want a chargeback.
+327.35,31,2,87,22.9,beauty,social,worst service ever and I demand a full refund.
+148.9,10,2,32,25.3,home,social,escalate to your manager now.
+275.29,35,2,75,42.7,electronics,email,reporting this to consumer court. support has not replied.
+189.22,14,2,79,61.8,electronics,email,reporting this to consumer court.
+126.77,37,3,82,30.8,electronics,social,worst service ever and I demand a full refund. the item arrived damaged.
+108.11,43,1,76,46.0,home,phone,the item arrived damaged. how do I return an item.
+83.79,28,6,2,4.8,electronics,social,reporting this to consumer court.
+285.4,1,0,75,61.8,electronics,social,worst service ever and I demand a full refund. how do I return an item.
+155.84,38,3,2,50.2,electronics,social,this is fraud and I want a chargeback. just checking the delivery date.
+88.12,34,3,68,134.0,grocery,social,reporting this to consumer court.
+138.49,29,2,61,28.4,home,social,this is fraud and I want a chargeback. package never arrived.
+448.63,40,4,80,72.2,clothing,social,reporting this to consumer court.
+47.54,41,1,32,55.9,clothing,social,this is fraud and I want a chargeback. support has not replied.
+49.48,20,6,17,28.6,electronics,email,I will contact a lawyer. the item arrived damaged.
+358.09,40,2,83,4.2,electronics,social,I will contact a lawyer.
+46.44,23,1,5,56.8,electronics,phone,this is fraud and I want a chargeback.
+349.73,2,1,38,29.9,electronics,chat,this is fraud and I want a chargeback. wrong item delivered.
+100.04,23,3,74,83.2,beauty,phone,worst service ever and I demand a full refund. how do I return an item.
+198.61,12,0,71,31.2,electronics,social,I will post this on social media. the item arrived damaged.
+335.48,33,1,6,7.0,electronics,social,reporting this to consumer court.
+336.05,18,2,24,31.9,electronics,phone,worst service ever and I demand a full refund. how do I return an item.
+250.29,33,1,64,32.1,electronics,social,escalate to your manager now. a small question about my order.
+150.44,12,1,60,41.6,electronics,social,escalate to your manager now.
+125.42,38,3,87,48.4,home,phone,worst service ever and I demand a full refund.
+127.57,8,5,86,29.7,electronics,chat,worst service ever and I demand a full refund.
+384.84,10,0,11,5.3,electronics,social,I will post this on social media.
+190.44,39,3,82,9.2,electronics,phone,worst service ever and I demand a full refund.
+314.43,33,2,58,30.8,electronics,social,I will contact a lawyer.
+14.36,2,3,35,31.2,grocery,phone,refund still not received.
+118.69,20,2,26,62.9,beauty,social,escalate to your manager now. wrong item delivered.
+187.91,9,0,46,33.2,electronics,email,reporting this to consumer court. the item arrived damaged.
+116.17,39,1,44,60.3,electronics,phone,worst service ever and I demand a full refund. package never arrived.
+511.69,34,0,51,36.1,electronics,social,escalate to your manager now. the item arrived damaged.
+61.66,34,0,43,22.0,clothing,social,reporting this to consumer court. the colour is slightly different.
+217.02,10,1,33,94.4,home,social,this is fraud and I want a chargeback.
+269.88,32,0,59,28.4,grocery,phone,I will contact a lawyer.
+81.49,12,2,46,27.9,electronics,phone,the item arrived damaged.
+266.82,27,0,32,34.3,electronics,social,worst service ever and I demand a full refund. wrong item delivered.
+204.5,43,2,92,58.7,electronics,social,I will contact a lawyer.
+725.82,36,1,15,24.4,electronics,chat,worst service ever and I demand a full refund.
+373.12,34,1,84,35.9,grocery,social,this is fraud and I want a chargeback. how do I return an item.
+150.9,7,1,48,17.8,electronics,chat,the colour is slightly different. just checking the delivery date.
+286.29,20,0,30,41.6,electronics,social,worst service ever and I demand a full refund. wrong item delivered.
+204.23,26,7,81,2.4,electronics,chat,this is fraud and I want a chargeback.
+111.55,6,2,65,17.2,grocery,phone,package never arrived. just checking the delivery date.
+238.58,28,1,11,19.4,home,phone,this is fraud and I want a chargeback.
+216.05,12,3,91,25.7,grocery,social,this is fraud and I want a chargeback.
+399.3,44,2,40,21.1,electronics,phone,this is fraud and I want a chargeback. refund still not received.
+48.11,44,3,35,59.0,electronics,social,this is fraud and I want a chargeback.
+50.5,24,1,37,49.9,grocery,social,this is fraud and I want a chargeback.
+86.89,35,0,81,12.8,electronics,social,the colour is slightly different.
+239.27,43,3,26,35.9,grocery,email,worst service ever and I demand a full refund.
+304.3,4,5,76,77.4,home,email,reporting this to consumer court.
+143.28,9,2,76,18.3,electronics,social,I will post this on social media. please update my delivery address.
+185.06,32,0,85,23.3,home,social,this is fraud and I want a chargeback. the colour is slightly different.
+161.04,9,1,78,44.2,home,social,worst service ever and I demand a full refund.
+38.21,17,3,9,8.1,electronics,social,escalate to your manager now. just checking the delivery date.
+82.61,40,2,10,28.2,beauty,social,I will post this on social media. support has not replied.
+277.63,32,2,88,70.8,beauty,social,escalate to your manager now.
+267.16,20,4,44,93.1,electronics,phone,reporting this to consumer court. support has not replied.
+322.14,13,0,94,13.6,beauty,email,package never arrived. the colour is slightly different.
+244.57,19,2,17,67.8,electronics,chat,escalate to your manager now. how do I return an item.
+11.72,6,1,23,10.3,electronics,email,how do I return an item.
+190.59,38,3,42,105.2,home,phone,I will contact a lawyer. support has not replied.
+198.93,1,2,61,45.8,beauty,social,worst service ever and I demand a full refund.
+51.79,6,1,18,28.2,electronics,chat,just checking the delivery date. the item arrived damaged.
+460.83,14,4,9,24.0,electronics,social,this is fraud and I want a chargeback.
+141.28,18,2,55,47.1,grocery,social,I will post this on social media. just checking the delivery date.
+284.56,38,0,58,84.0,electronics,social,I will post this on social media.
+258.63,33,1,37,49.3,electronics,social,I will post this on social media. package never arrived.
+233.05,40,2,68,68.6,electronics,social,I will post this on social media.
+364.02,31,0,14,63.1,grocery,social,worst service ever and I demand a full refund. package never arrived.
+142.21,31,0,71,60.1,electronics,social,this is fraud and I want a chargeback. package never arrived.
+284.51,10,1,5,114.2,home,social,I will post this on social media. refund still not received.
+211.85,33,4,82,68.4,home,social,I will post this on social media.
+58.44,19,3,93,35.4,electronics,social,I will post this on social media. please update my delivery address.
+97.32,9,3,28,42.7,electronics,phone,refund still not received. wrong item delivered.
+59.77,38,1,40,8.6,clothing,social,please update my delivery address.
+41.12,16,2,12,6.8,electronics,phone,please update my delivery address.
+214.66,43,1,78,25.1,electronics,chat,worst service ever and I demand a full refund. just checking the delivery date.
+47.54,40,1,78,32.8,electronics,social,I will post this on social media.
+289.31,37,3,29,24.9,electronics,social,the item arrived damaged.
+130.72,44,4,3,28.2,home,social,escalate to your manager now. the item arrived damaged.
+129.64,13,1,44,66.2,electronics,phone,escalate to your manager now.
+56.9,20,2,23,40.5,grocery,social,I will post this on social media.
+201.23,9,2,75,5.9,electronics,social,wrong item delivered.
+77.2,35,2,23,55.4,electronics,email,reporting this to consumer court.
+238.05,18,2,94,54.3,electronics,social,worst service ever and I demand a full refund.
+244.55,42,1,74,33.4,beauty,social,reporting this to consumer court. the colour is slightly different.
+34.9,7,0,61,38.9,electronics,social,a small question about my order. refund still not received.
+215.61,44,2,42,21.1,grocery,social,I will contact a lawyer.
+22.57,9,0,1,45.3,electronics,phone,refund still not received. support has not replied.
+263.95,14,5,80,21.8,electronics,social,worst service ever and I demand a full refund.
+21.07,43,1,51,30.1,electronics,social,support has not replied.
+68.02,29,2,64,60.3,electronics,social,this is fraud and I want a chargeback.
+344.93,21,0,10,35.2,clothing,social,escalate to your manager now. the item arrived damaged.
+181.98,18,2,81,33.7,clothing,social,I will contact a lawyer.
+245.18,13,3,10,83.8,electronics,chat,this is fraud and I want a chargeback. the item arrived damaged.
+12.98,21,4,75,27.1,home,social,worst service ever and I demand a full refund.
+257.26,10,2,28,66.2,home,social,I will post this on social media.
+82.29,21,4,84,40.0,clothing,phone,I will post this on social media.
+414.24,26,2,33,21.8,home,phone,I will post this on social media.
+162.3,13,1,27,23.3,electronics,social,I will post this on social media. please update my delivery address.
+145.62,16,1,61,49.3,electronics,social,I will post this on social media. support has not replied.
+38.23,1,2,34,95.0,electronics,phone,worst service ever and I demand a full refund.
+76.8,40,1,36,15.6,electronics,social,refund still not received.
+152.78,34,3,60,11.9,electronics,phone,this is fraud and I want a chargeback.
+356.67,44,1,29,81.4,clothing,social,escalate to your manager now. refund still not received.
+340.31,31,2,56,58.5,electronics,chat,escalate to your manager now.
+129.79,44,3,60,38.9,clothing,social,worst service ever and I demand a full refund. refund still not received.
+61.16,37,2,74,8.4,electronics,phone,please update my delivery address. just checking the delivery date.
+56.7,9,1,65,68.0,electronics,social,I will post this on social media.
+423.13,7,0,77,8.1,electronics,phone,refund still not received. just checking the delivery date.
+191.25,29,4,32,60.1,beauty,phone,escalate to your manager now. support has not replied.
+66.63,11,0,29,27.3,clothing,phone,support has not replied.
+386.92,33,2,91,33.9,electronics,social,I will post this on social media. package never arrived.
+224.83,27,3,12,24.2,electronics,phone,I will contact a lawyer. the colour is slightly different.
+256.79,44,3,67,16.1,electronics,social,I will contact a lawyer. how do I return an item.
+271.57,42,0,71,23.8,home,social,I will contact a lawyer. wrong item delivered.
+197.98,37,0,94,49.1,grocery,social,worst service ever and I demand a full refund.
+107.98,21,1,66,3.7,electronics,social,a small question about my order. package never arrived.
+37.41,31,1,60,8.8,beauty,social,refund still not received. just checking the delivery date.
+51.3,9,0,27,53.7,electronics,phone,wrong item delivered. please update my delivery address.
+79.1,41,2,62,40.3,electronics,social,reporting this to consumer court.
+220.76,27,2,6,102.5,electronics,social,I will post this on social media.
+89.41,27,1,46,10.8,electronics,phone,the item arrived damaged. support has not replied.
+263.09,43,0,3,14.1,electronics,social,reporting this to consumer court. the item arrived damaged.
+279.47,21,5,37,30.8,home,chat,reporting this to consumer court. refund still not received.
+388.95,39,2,24,35.0,electronics,social,I will contact a lawyer. support has not replied.
+395.79,33,2,92,39.2,home,phone,I will contact a lawyer.
+411.81,40,6,26,38.3,electronics,social,worst service ever and I demand a full refund.
+184.3,7,3,79,53.2,home,social,this is fraud and I want a chargeback. the colour is slightly different.
+176.38,19,0,20,5.1,electronics,email,support has not replied. support has not replied.
+99.6,27,4,25,37.8,electronics,social,reporting this to consumer court.
+190.86,12,4,5,20.9,beauty,chat,the item arrived damaged. the item arrived damaged.
+173.76,17,0,66,19.4,home,phone,reporting this to consumer court. support has not replied.
+96.88,39,4,17,93.1,home,social,worst service ever and I demand a full refund.
+29.87,39,0,79,25.1,clothing,social,refund still not received.
+362.48,35,3,34,72.4,electronics,social,I will post this on social media.
+231.46,11,1,7,146.1,clothing,social,worst service ever and I demand a full refund.
+73.28,38,3,9,24.9,electronics,phone,I will post this on social media.
+113.58,4,3,55,32.6,home,phone,worst service ever and I demand a full refund. package never arrived.
+264.18,18,1,20,30.6,clothing,chat,I will contact a lawyer. the colour is slightly different.
+108.15,5,2,8,35.9,grocery,phone,escalate to your manager now.
+198.32,13,3,42,82.7,grocery,social,I will contact a lawyer. package never arrived.
+308.56,35,2,42,59.2,grocery,social,I will post this on social media. wrong item delivered.
+278.1,11,1,81,35.9,electronics,social,this is fraud and I want a chargeback.
+146.17,22,0,87,33.7,electronics,social,package never arrived.
+82.63,39,0,83,15.6,electronics,email,the colour is slightly different.
+124.28,12,0,47,42.0,beauty,social,reporting this to consumer court.
+262.68,41,1,39,10.6,clothing,social,this is fraud and I want a chargeback.
+143.54,26,1,10,16.9,electronics,social,I will post this on social media. just checking the delivery date.
+425.68,17,2,12,34.8,grocery,email,reporting this to consumer court.
+456.8,28,4,42,17.6,clothing,phone,reporting this to consumer court. support has not replied.
+393.85,39,4,26,8.4,electronics,social,this is fraud and I want a chargeback. support has not replied.
+258.63,15,2,70,29.0,electronics,social,this is fraud and I want a chargeback.
+62.21,17,5,65,13.2,grocery,social,reporting this to consumer court.
+437.02,4,3,73,47.3,grocery,email,this is fraud and I want a chargeback. refund still not received.
+265.96,20,3,39,37.0,electronics,social,worst service ever and I demand a full refund.
+100.49,15,1,13,9.7,beauty,social,wrong item delivered. support has not replied.
+83.96,25,2,55,42.0,electronics,social,worst service ever and I demand a full refund.
+103.64,28,0,85,51.7,electronics,social,worst service ever and I demand a full refund.
+182.0,10,0,70,36.7,electronics,phone,refund still not received. the colour is slightly different.
+49.84,15,2,63,27.1,beauty,social,support has not replied. refund still not received.
+335.73,12,1,63,22.4,grocery,social,reporting this to consumer court.
+126.98,4,1,81,103.0,electronics,chat,I will contact a lawyer. support has not replied.
+235.75,12,3,82,35.9,clothing,phone,I will contact a lawyer.
+37.43,30,2,1,33.2,electronics,social,worst service ever and I demand a full refund. just checking the delivery date.
+776.21,12,4,9,25.5,home,social,escalate to your manager now.
+307.1,19,1,47,11.2,electronics,phone,I will contact a lawyer. package never arrived.
+152.19,23,5,29,21.1,home,social,I will post this on social media.
+62.79,1,4,91,48.0,electronics,phone,worst service ever and I demand a full refund.
+396.32,5,1,4,40.7,electronics,social,reporting this to consumer court. support has not replied.
+121.16,3,3,65,40.3,electronics,social,I will post this on social media.
+118.67,35,3,50,35.2,beauty,social,I will post this on social media.
+80.86,13,2,14,15.0,electronics,phone,I will contact a lawyer. refund still not received.
+58.6,8,2,59,33.4,electronics,social,reporting this to consumer court.
+152.89,8,3,47,61.2,electronics,phone,reporting this to consumer court.
+163.99,20,5,25,31.2,electronics,social,I will post this on social media.
+118.67,5,4,12,2.2,grocery,social,I will contact a lawyer.
+66.69,29,1,6,16.5,electronics,social,I will contact a lawyer.
+392.1,32,2,89,4.6,home,social,I will contact a lawyer. the item arrived damaged.
+413.17,7,0,45,14.5,electronics,social,worst service ever and I demand a full refund.
+82.61,44,2,65,119.0,electronics,phone,I will post this on social media.
+350.44,19,2,16,22.4,grocery,social,reporting this to consumer court. how do I return an item.
+164.77,37,0,88,15.0,electronics,social,refund still not received.
+152.06,25,0,19,6.4,clothing,social,wrong item delivered.
+501.71,39,4,79,26.0,beauty,phone,I will post this on social media. how do I return an item.
+476.82,25,0,37,73.5,home,social,I will post this on social media.
+115.67,15,2,17,15.4,electronics,social,this is fraud and I want a chargeback. how do I return an item.
+250.02,40,4,90,43.3,clothing,social,I will contact a lawyer. how do I return an item.
+99.12,40,4,17,37.2,home,social,reporting this to consumer court. the item arrived damaged.
+37.43,35,1,35,19.4,electronics,social,escalate to your manager now. the colour is slightly different.
+274.7,30,2,22,52.4,beauty,social,escalate to your manager now.
+211.66,6,3,68,22.7,electronics,phone,reporting this to consumer court.
+251.26,34,4,91,16.5,electronics,social,this is fraud and I want a chargeback. support has not replied.
+550.73,37,2,36,17.8,electronics,social,I will contact a lawyer. just checking the delivery date.
+127.17,29,2,22,37.8,electronics,chat,reporting this to consumer court.
+216.18,25,0,39,103.4,electronics,social,this is fraud and I want a chargeback.
+173.2,30,4,50,60.7,electronics,social,this is fraud and I want a chargeback.
+26.26,30,1,14,17.4,electronics,chat,package never arrived. wrong item delivered.
+134.2,5,0,31,32.6,grocery,social,I will contact a lawyer.
+38.68,8,0,18,15.2,electronics,social,please update my delivery address. just checking the delivery date.
+160.15,13,2,67,14.1,electronics,phone,package never arrived. refund still not received.
+65.55,21,3,74,4.6,electronics,phone,a small question about my order.
+60.7,18,4,16,40.9,beauty,chat,I will post this on social media.
+364.97,31,0,41,19.6,electronics,social,I will post this on social media.
+112.63,27,3,70,26.6,electronics,phone,worst service ever and I demand a full refund.
+124.34,36,1,28,40.9,home,social,worst service ever and I demand a full refund. the item arrived damaged.
+191.42,10,3,13,8.1,electronics,social,reporting this to consumer court.
+19.04,36,3,94,10.6,electronics,phone,refund still not received. a small question about my order.
+73.91,10,3,26,43.6,clothing,phone,package never arrived.
+84.7,10,4,84,12.1,home,social,this is fraud and I want a chargeback.
+201.74,41,1,35,13.0,electronics,chat,worst service ever and I demand a full refund. how do I return an item.
+179.11,37,4,26,59.4,electronics,chat,worst service ever and I demand a full refund.
+94.35,5,0,26,29.5,electronics,chat,just checking the delivery date. the colour is slightly different.
+432.65,26,0,42,71.3,electronics,social,I will post this on social media. please update my delivery address.
+101.9,42,3,62,92.8,clothing,social,escalate to your manager now.
+82.04,30,0,54,79.0,beauty,social,I will post this on social media.
+197.66,25,3,69,7.9,electronics,social,I will post this on social media.
+87.59,38,0,16,36.1,beauty,phone,refund still not received.
+327.48,27,4,67,58.5,electronics,chat,I will contact a lawyer.
+187.11,18,3,41,40.5,beauty,email,this is fraud and I want a chargeback.
+87.67,41,2,85,22.7,electronics,social,I will contact a lawyer. the colour is slightly different.
+547.83,41,0,27,11.9,electronics,social,I will post this on social media.
+112.21,41,2,50,49.5,grocery,social,escalate to your manager now.
+146.83,39,1,77,7.7,beauty,social,reporting this to consumer court.
+186.79,12,1,14,5.9,grocery,chat,support has not replied. a small question about my order.
+189.75,36,3,9,13.9,clothing,social,escalate to your manager now.
+197.6,15,1,83,31.0,electronics,social,this is fraud and I want a chargeback. wrong item delivered.
+50.22,17,0,95,73.0,beauty,chat,reporting this to consumer court. the item arrived damaged.
+157.07,26,1,34,24.2,electronics,chat,this is fraud and I want a chargeback.
+22.15,24,3,23,57.9,grocery,social,reporting this to consumer court. package never arrived.
+125.04,39,5,76,13.0,electronics,social,worst service ever and I demand a full refund. a small question about my order.
+137.73,8,1,32,20.9,beauty,social,this is fraud and I want a chargeback.
+214.53,27,1,41,22.2,clothing,chat,support has not replied. a small question about my order.
+80.92,34,1,8,16.7,home,phone,support has not replied.
+181.49,20,3,3,65.8,electronics,social,I will post this on social media.
+108.45,40,0,87,7.3,electronics,social,wrong item delivered.
+158.23,34,3,8,64.7,electronics,social,reporting this to consumer court. package never arrived.
+72.39,8,0,79,37.2,electronics,social,package never arrived.
+278.27,7,1,77,48.8,electronics,phone,this is fraud and I want a chargeback.
+268.72,33,1,7,15.4,electronics,social,escalate to your manager now. how do I return an item.
+36.99,17,2,95,47.7,electronics,social,I will post this on social media. please update my delivery address.
+122.95,31,2,51,5.1,electronics,social,support has not replied.
+113.51,34,5,43,27.1,home,social,package never arrived. refund still not received.
+22.69,2,2,38,38.1,electronics,email,please update my delivery address. package never arrived.
+51.45,32,0,17,16.1,home,chat,just checking the delivery date.
+122.66,41,2,58,7.7,electronics,social,refund still not received.
+53.98,37,2,89,13.9,electronics,email,how do I return an item.
+163.34,22,1,32,22.7,electronics,chat,reporting this to consumer court.
+236.19,21,6,26,20.5,electronics,social,worst service ever and I demand a full refund.
+91.05,12,2,91,3.3,home,social,the item arrived damaged. how do I return an item.
+220.29,22,3,21,47.1,electronics,social,worst service ever and I demand a full refund.
+345.69,2,1,21,8.6,home,social,I will post this on social media. how do I return an item.
+91.66,9,4,6,36.1,home,phone,escalate to your manager now. wrong item delivered.
+309.3,35,2,78,15.6,home,chat,worst service ever and I demand a full refund.
+312.74,14,0,59,5.5,electronics,social,I will contact a lawyer.
+344.09,15,2,26,52.8,electronics,email,I will contact a lawyer.
+153.79,31,2,11,24.6,electronics,phone,I will post this on social media. wrong item delivered.
+183.79,23,0,62,39.2,electronics,social,I will contact a lawyer.
+81.6,20,1,18,40.3,clothing,social,worst service ever and I demand a full refund. refund still not received.
+267.86,9,1,41,36.7,grocery,social,reporting this to consumer court.
+248.56,15,0,9,15.2,beauty,phone,package never arrived.
+197.71,27,1,50,40.9,home,social,escalate to your manager now.
+153.39,28,4,54,55.2,electronics,social,I will contact a lawyer. the colour is slightly different.
+93.21,18,2,50,16.3,electronics,phone,the item arrived damaged. package never arrived.
+16.19,30,1,68,11.0,electronics,phone,a small question about my order. the colour is slightly different.
+101.12,36,2,60,17.6,electronics,social,I will contact a lawyer.
+32.58,5,5,75,60.5,grocery,phone,this is fraud and I want a chargeback. please update my delivery address.
+139.56,30,2,7,27.1,electronics,social,reporting this to consumer court.
+81.3,32,0,75,75.2,electronics,social,refund still not received. refund still not received.
+564.49,32,0,6,20.7,electronics,social,escalate to your manager now.
+97.64,13,1,80,29.7,electronics,social,refund still not received.
+74.73,12,1,93,77.2,home,phone,worst service ever and I demand a full refund. the item arrived damaged.
+442.83,20,2,71,86.0,electronics,email,this is fraud and I want a chargeback.
+37.22,3,2,25,49.1,electronics,social,I will post this on social media. the item arrived damaged.
+322.39,14,1,13,10.6,electronics,phone,escalate to your manager now.
+330.88,39,1,34,29.9,beauty,phone,this is fraud and I want a chargeback. package never arrived.
+146.53,37,0,29,28.2,grocery,social,I will post this on social media. refund still not received.
+51.51,42,0,23,11.4,electronics,social,package never arrived. a small question about my order.
+100.36,2,1,34,67.5,beauty,phone,escalate to your manager now. support has not replied.
+173.11,29,1,62,39.6,electronics,social,I will contact a lawyer.
+271.02,3,1,39,13.6,electronics,social,worst service ever and I demand a full refund.
+225.26,41,2,94,10.1,electronics,social,reporting this to consumer court.
+209.76,23,0,85,34.5,electronics,phone,I will contact a lawyer.
+115.42,32,0,39,5.3,beauty,social,the item arrived damaged.
+306.56,11,1,94,56.5,beauty,social,this is fraud and I want a chargeback. support has not replied.
+69.56,27,3,31,20.0,electronics,phone,worst service ever and I demand a full refund.
+93.76,38,0,54,9.0,electronics,chat,a small question about my order.
+177.25,19,3,34,43.8,electronics,social,I will contact a lawyer. wrong item delivered.
+257.51,35,4,62,13.9,beauty,social,reporting this to consumer court.
+214.53,16,3,3,26.4,beauty,social,this is fraud and I want a chargeback. the colour is slightly different.
+221.1,10,2,47,33.2,electronics,email,I will contact a lawyer. wrong item delivered.
+110.52,22,1,9,12.5,beauty,email,refund still not received.
+292.16,31,4,29,39.6,clothing,social,this is fraud and I want a chargeback. package never arrived.
+21.96,10,0,5,70.2,electronics,phone,escalate to your manager now. support has not replied.
+96.22,23,2,57,60.3,electronics,phone,escalate to your manager now. a small question about my order.
+52.55,19,2,31,27.9,grocery,chat,refund still not received.
+66.22,38,0,37,51.0,electronics,social,this is fraud and I want a chargeback.
+209.63,23,3,94,11.0,electronics,phone,I will post this on social media. just checking the delivery date.
+263.97,1,1,68,25.5,electronics,email,I will post this on social media.
+71.86,2,5,14,62.3,electronics,social,I will post this on social media.
+156.46,23,2,32,11.4,grocery,chat,package never arrived.
+469.22,18,1,53,33.9,grocery,phone,I will contact a lawyer.
+193.91,4,1,14,52.4,electronics,phone,I will contact a lawyer. just checking the delivery date.
+378.38,13,2,20,32.3,electronics,social,reporting this to consumer court. the colour is slightly different.
+305.14,16,2,64,90.2,home,social,I will post this on social media.
+324.8,28,1,4,21.3,electronics,social,reporting this to consumer court.
+127.38,10,2,73,18.9,electronics,social,escalate to your manager now.
+202.73,36,3,80,7.7,grocery,social,the item arrived damaged.
+564.38,31,2,39,35.2,electronics,social,I will contact a lawyer. how do I return an item.
+89.2,28,3,13,32.6,grocery,social,package never arrived.
+339.78,32,3,47,14.5,electronics,chat,this is fraud and I want a chargeback.
+103.93,30,1,13,39.4,electronics,social,the item arrived damaged. support has not replied.
+166.25,5,0,17,82.1,electronics,social,worst service ever and I demand a full refund. support has not replied.
+236.74,28,2,78,19.1,electronics,phone,escalate to your manager now.
+120.84,9,1,90,71.3,grocery,social,this is fraud and I want a chargeback.
+135.94,12,4,24,49.5,electronics,social,reporting this to consumer court. support has not replied.
+61.96,35,2,94,25.7,electronics,social,the item arrived damaged. the item arrived damaged.
+145.33,17,1,19,2.6,electronics,social,refund still not received. please update my delivery address.
+54.21,35,1,91,26.4,electronics,social,I will post this on social media. please update my delivery address.
+208.35,38,0,90,14.7,beauty,chat,I will post this on social media.
+171.95,11,1,2,37.4,electronics,phone,this is fraud and I want a chargeback.
+309.3,42,2,19,18.7,electronics,social,escalate to your manager now. support has not replied.
+133.7,20,2,55,24.9,electronics,social,worst service ever and I demand a full refund.
+307.25,8,0,80,15.6,electronics,phone,escalate to your manager now. the item arrived damaged.
+325.13,13,1,47,18.3,home,social,this is fraud and I want a chargeback. please update my delivery address.
+337.92,1,3,30,39.6,clothing,phone,worst service ever and I demand a full refund.
+258.51,8,1,66,4.6,beauty,social,worst service ever and I demand a full refund. the colour is slightly different.
+213.27,43,1,54,64.5,electronics,social,this is fraud and I want a chargeback. support has not replied.
+191.25,7,4,55,45.1,electronics,social,worst service ever and I demand a full refund.
+113.77,38,2,30,4.0,electronics,phone,worst service ever and I demand a full refund. refund still not received.
+153.06,30,2,93,36.5,clothing,phone,escalate to your manager now. please update my delivery address.
+154.77,27,0,33,21.3,electronics,social,reporting this to consumer court.
+512.7,39,0,48,17.6,beauty,social,I will post this on social media.
+59.13,36,2,89,24.4,electronics,social,package never arrived. the item arrived damaged.
+131.67,23,1,41,25.7,electronics,phone,wrong item delivered. refund still not received.
+188.9,27,2,87,13.9,electronics,social,support has not replied. how do I return an item.
+76.11,44,3,42,19.4,electronics,social,worst service ever and I demand a full refund. support has not replied.
+251.79,40,2,17,60.5,grocery,social,this is fraud and I want a chargeback. the colour is slightly different.
+98.42,15,0,93,6.4,home,phone,how do I return an item.
+200.89,11,0,69,54.1,electronics,social,I will post this on social media. refund still not received.
+162.51,2,4,35,14.3,grocery,social,reporting this to consumer court. the colour is slightly different.
+232.81,20,2,14,41.6,electronics,social,I will post this on social media.
+55.73,28,2,23,7.9,electronics,social,refund still not received.
+196.25,30,2,29,14.1,electronics,social,reporting this to consumer court.
+378.2,44,1,39,23.5,electronics,social,worst service ever and I demand a full refund. how do I return an item.
+273.26,10,3,7,2.9,electronics,email,I will contact a lawyer.
+157.78,22,1,39,8.1,electronics,social,the item arrived damaged. package never arrived.
+164.52,32,2,62,79.2,home,email,this is fraud and I want a chargeback.
+178.9,5,3,8,50.8,electronics,phone,reporting this to consumer court. please update my delivery address.
+135.62,12,1,70,55.9,clothing,social,package never arrived. the item arrived damaged.
+83.47,33,4,86,44.7,electronics,chat,I will post this on social media. the colour is slightly different.
+158.88,32,1,71,17.8,clothing,social,escalate to your manager now. a small question about my order.
+151.77,9,0,37,88.9,grocery,social,reporting this to consumer court.
+505.97,36,3,74,113.7,home,social,support has not replied. wrong item delivered.
+220.3,39,1,70,9.9,clothing,social,escalate to your manager now. package never arrived.
+551.44,19,5,38,28.4,clothing,social,I will contact a lawyer. how do I return an item.
+155.14,15,3,58,26.0,electronics,social,I will post this on social media.
+201.32,44,0,17,27.5,beauty,social,worst service ever and I demand a full refund.
+162.54,12,0,76,55.2,grocery,phone,worst service ever and I demand a full refund. support has not replied.
+84.4,28,1,1,29.0,electronics,chat,support has not replied. refund still not received.
+76.09,16,3,70,31.9,electronics,social,I will post this on social media. a small question about my order.
+130.38,34,2,42,29.0,electronics,social,worst service ever and I demand a full refund.
+291.21,28,1,1,8.6,beauty,phone,worst service ever and I demand a full refund.
+68.97,1,2,89,88.0,electronics,social,this is fraud and I want a chargeback.
+52.72,3,2,89,7.5,electronics,phone,please update my delivery address. please update my delivery address.
+153.58,5,2,43,22.2,beauty,chat,escalate to your manager now.
+99.35,44,3,12,24.4,home,social,this is fraud and I want a chargeback. a small question about my order.
+94.49,32,1,59,38.5,electronics,phone,I will post this on social media. please update my delivery address.
+399.13,15,3,53,45.1,electronics,social,reporting this to consumer court.
+152.04,42,3,88,3.5,electronics,phone,wrong item delivered. support has not replied.
+226.12,14,1,43,33.2,electronics,phone,worst service ever and I demand a full refund. just checking the delivery date.
+148.83,28,5,82,11.7,electronics,social,I will post this on social media. package never arrived.
+255.55,22,1,8,40.9,grocery,social,worst service ever and I demand a full refund. support has not replied.
+147.25,41,2,71,35.0,electronics,email,package never arrived. the item arrived damaged.
+138.6,22,2,22,2.0,electronics,social,package never arrived. just checking the delivery date.
+240.71,3,0,57,8.4,clothing,social,the item arrived damaged.
+148.03,18,3,89,26.8,electronics,phone,package never arrived. a small question about my order.
+342.06,40,2,23,45.8,electronics,phone,escalate to your manager now. please update my delivery address.
+91.83,18,2,94,51.7,home,social,this is fraud and I want a chargeback. please update my delivery address.
+379.85,39,1,72,38.9,home,social,this is fraud and I want a chargeback. please update my delivery address.
+64.75,2,2,15,17.2,beauty,social,escalate to your manager now.
+114.99,28,3,40,35.4,electronics,social,this is fraud and I want a chargeback. just checking the delivery date.
+168.17,7,3,12,27.3,electronics,social,this is fraud and I want a chargeback.
+62.98,19,2,68,18.5,beauty,phone,wrong item delivered.
+99.45,24,1,52,59.8,electronics,social,this is fraud and I want a chargeback.
+245.54,32,0,22,31.9,electronics,chat,this is fraud and I want a chargeback. support has not replied.
+129.77,33,2,63,31.5,home,email,this is fraud and I want a chargeback. the colour is slightly different.
+88.52,11,2,90,51.3,grocery,chat,wrong item delivered. the item arrived damaged.
+248.6,31,2,4,18.9,beauty,email,this is fraud and I want a chargeback. the item arrived damaged.
+165.13,30,0,16,27.1,electronics,social,I will contact a lawyer.
+224.33,1,4,94,9.2,electronics,phone,I will contact a lawyer.
+370.84,31,1,76,13.0,electronics,social,I will post this on social media.
+154.89,41,0,47,7.5,home,social,support has not replied.
+194.18,24,0,85,9.9,clothing,social,the item arrived damaged.
+690.04,9,3,80,11.4,electronics,social,worst service ever and I demand a full refund.
+23.96,12,2,15,25.7,home,chat,package never arrived. refund still not received.
+177.56,34,2,78,42.0,beauty,chat,escalate to your manager now. the item arrived damaged.
+85.46,1,0,83,17.8,electronics,social,the colour is slightly different.
+205.94,8,2,70,31.0,clothing,social,I will contact a lawyer. a small question about my order.
+83.88,9,1,62,110.9,electronics,email,worst service ever and I demand a full refund.
+111.38,11,2,15,16.3,clothing,social,reporting this to consumer court.
+53.52,37,2,58,22.7,electronics,phone,reporting this to consumer court.

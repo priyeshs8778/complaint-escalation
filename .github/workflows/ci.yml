@@ -1,0 +1,64 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt flake8
+
+      - name: Lint
+        run: flake8 src tests dashboard.py --max-line-length 120 --extend-ignore=E203,W503
+
+      - name: Phase 1 - data pipeline
+        run: |
+          python -m src.generate_data
+          python -m src.pipeline
+
+      - name: Phase 2 - train model
+        run: python -m src.train
+
+      - name: Phase 3 - batch inference
+        run: python -m src.predict_batch
+
+      - name: Phase 5 - drift detection (alert expected on shifted batch)
+        run: |
+          python -m src.generate_data --drifted
+          set +e
+          python -m src.drift --current data/batch/drifted_batch.csv
+          code=$?
+          test "$code" -eq 2
+
+      - name: Unit and API tests
+        run: pytest -q
+
+      - name: Build Docker image
+        run: docker build -t escalation-api:${{ github.sha }} .
+
+      - name: Smoke test container
+        run: |
+          docker run -d --name api -p 8000:8000 escalation-api:${{ github.sha }}
+          for i in $(seq 1 20); do
+            curl -sf http://localhost:8000/health && break || sleep 2
+          done
+          curl -sf http://localhost:8000/health
+          docker logs api
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports
+          path: reports/
